@@ -16,4 +16,4 @@
 全文: https://creativecommons.org/licenses/by/4.0/legalcode.ja
 
 各項目の出典は data/events.csv の source 列、HTML 版では各項目にマウスを重ねると表示されます。
-誤りに気づいた場合は、ブログ（https://yukifurukawa.jp/）から知らせてください。
+誤りに気づいた場合は、ブログ（https://yukifurukawa.jp/psychiatry-history-timeline/）から知らせてください。
