@@ -183,10 +183,8 @@ def split_year_chunks(year_events: list[Event]) -> list[list[Event]]:
 
 
 def render_blank_cell(section: Section, profile: dict) -> str:
-    """手書き用の空欄セル。年の目安としてソフト同期の破線だけを置き、位置は fit.js が他の列に合わせる。"""
-    years = [year for year in sorted(profile["soft_sync_years"])
-             if year >= section.start and (section.end is None or year < section.end)]
-    return "".join(f'<div class="sync-rule" data-sync="{year}"></div>' for year in years)
+    """手書き用の空欄セル。中身は置かず、等間隔の罫線（template.css の .cell-blank）だけにする。"""
+    return ""
 
 
 def heading_pt(heading: str, width_mm: float) -> float:

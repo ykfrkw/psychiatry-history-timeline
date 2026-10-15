@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Purpose: 公開サイトの入口。年表（A3 版 HTML）を iframe で拡大縮小・横スクロールして見せ、PDF・CSV の入手先とライセンスを示す
+  Purpose: 公開サイトの入口。年表（A3 版 HTML）を iframe で拡大縮小・横スクロールして見せ、PDF の入手先とライセンスを示す
   Inputs:  timeline/site.py が {{...}} を差し込む。同じフォルダの timeline.html・PDF・data/events.csv
   Outputs: site/index.html（静的ファイルのみ。外部 CDN なし）
   Depends: なし
@@ -60,8 +60,6 @@
   <nav class="actions" aria-label="ダウンロード">
     <a class="button" href="psychiatry-history-timeline_A3.pdf" download>PDF をダウンロード（A3 横 1 枚）</a>
     <a class="button" href="psychiatry-history-timeline_A4x2.pdf" download>PDF をダウンロード（A4 縦 2 枚・見開き）</a>
-    <a class="button secondary" href="data/events.csv" download>データ（CSV）</a>
-    <a class="button secondary" href="https://yukifurukawa.jp/">ブログ記事へ戻る</a>
   </nav>
 </header>
 <div class="toolbar" role="toolbar" aria-label="表示倍率">
@@ -76,9 +74,9 @@
   <div class="stage"><iframe src="timeline.html" title="精神医学の歴史（A3 年表）" loading="eager"></iframe></div>
 </main>
 <footer class="site-foot">
-  <p>© 2026 古川由己（精神科医）／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/</p>
+  <p>© 2026 Furukawa Y／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/</p>
   <p>ライセンス: <a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC BY 4.0</a>（クレジットを表示すれば、改変・再配布・商用利用ができます）。詳しくは <a href="LICENSE.txt">LICENSE.txt</a>。
-    クレジット表記の例: <code>「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/</code></p>
+    クレジット表記の例: <code>「精神医学の歴史」Furukawa Y, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/</code></p>
   <p>右端の空欄の列は、医局・病院・学会などの沿革を手書きで書き込むためのものです。医局版を作る手順は <a href="README.md">README.md</a> を参照してください。</p>
   <p>最終更新: 2026-10-15　掲載 324 項目</p>
 </footer>

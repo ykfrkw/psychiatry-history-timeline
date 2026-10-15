@@ -4,7 +4,7 @@
 右端の列は空欄で、印刷して医局・病院・学会などの沿革を書き込めます。
 
 - 公開サイト: https://ykfrkw.github.io/psychiatry-history-timeline/
-- 作成: 古川由己（精神科医）
+- 作成: Furukawa Y
 - ライセンス: CC BY 4.0（`LICENSE.txt`）
 
 ## ダウンロードと印刷
@@ -66,6 +66,6 @@ python3 build.py profiles/sample_ikyoku.toml         # 医局版の例（ダミ�
 
 この年表（PDF・HTML・データ）とコードは、クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）で提供します。改変・再配布・講義資料への利用ができます。
 
-クレジット表記の例: 「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/
+クレジット表記の例: 「精神医学の歴史」Furukawa Y, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/
 
 誤りに気づいた場合は、Issue か、ブログ（https://yukifurukawa.jp/）からお知らせください。

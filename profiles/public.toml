@@ -9,6 +9,6 @@ local_csv = ""
 local_heading = ""
 local_blank = true
 
-footer_note = "© 2026 古川由己（精神科医）／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/"
+footer_note = "© 2026 Furukawa Y／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/"
 blog_url = "https://yukifurukawa.jp/"
 site_url = "https://ykfrkw.github.io/psychiatry-history-timeline/"

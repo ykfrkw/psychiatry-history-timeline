@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Purpose: 公開サイトの入口。年表（A3 版 HTML）を iframe で拡大縮小・横スクロールして見せ、PDF・CSV の入手先とライセンスを示す
+  Purpose: 公開サイトの入口。年表（A3 版 HTML）を iframe で拡大縮小・横スクロールして見せ、PDF の入手先とライセンスを示す
   Inputs:  timeline/site.py が {{...}} を差し込む。同じフォルダの timeline.html・PDF・data/events.csv
   Outputs: site/index.html（静的ファイルのみ。外部 CDN なし）
   Depends: なし
@@ -60,8 +60,6 @@
   <nav class="actions" aria-label="ダウンロード">
     <a class="button" href="{{pdf_a3}}" download>PDF をダウンロード（A3 横 1 枚）</a>
     <a class="button" href="{{pdf_a4x2}}" download>PDF をダウンロード（A4 縦 2 枚・見開き）</a>
-    <a class="button secondary" href="data/events.csv" download>データ（CSV）</a>
-    <a class="button secondary" href="{{blog_url}}">ブログ記事へ戻る</a>
   </nav>
 </header>
 <div class="toolbar" role="toolbar" aria-label="表示倍率">

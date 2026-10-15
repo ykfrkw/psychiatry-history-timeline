@@ -18,4 +18,4 @@ GitHub リポジトリの README「医局版の作り方」の手順に従い、
 
 ## ライセンス
 
-CC BY 4.0（`LICENSE.txt`）。クレジット表記の例: 「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/
+CC BY 4.0（`LICENSE.txt`）。クレジット表記の例: 「精神医学の歴史」Furukawa Y, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/
