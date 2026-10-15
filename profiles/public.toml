@@ -1,0 +1,14 @@
+# 公開版。共通の土台（base.toml）の右端の医局列を空欄にした差分だけをここに書く。
+# base.toml の列・文字の詰め方・そろえ方などを直せば、公開版にもそのまま反映される。キーの意味は README.md を参照
+extends = "base.toml"
+
+title = "精神医学の歴史"
+
+# 右端の列は見出しも中身も空欄（印刷して医局・病院の沿革を書き込む）
+local_csv = ""
+local_heading = ""
+local_blank = true
+
+footer_note = "© 2026 古川由己（精神科医）／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/"
+blog_url = "https://yukifurukawa.jp/"
+site_url = "https://ykfrkw.github.io/psychiatry-history-timeline/"

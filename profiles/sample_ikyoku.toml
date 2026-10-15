@@ -1,0 +1,28 @@
+# 医局版の例（sample データ + 医局沿革 + 睡眠を色付け）。キーの意味は README.md を参照
+title = "精神医学の歴史と○○大学医局"
+subtitle = "隔離から地域へ — 古代〜現在（サンプルデータ）"
+corner_title = "隔離から地域へ"
+essay = "精神医学の二百年は、狂気を鎖から解く物語であると同時に、病院という新しい囲いを築く物語でもあった。日本では私宅監置から精神科病院へと隔離の場が移り、地域へ戻す試みはいまも途上にある。"
+events_csv = "data/sample_events.csv"
+eras_csv = "data/sample_eras.csv"
+local_csv = "data/local_sample.csv"
+local_heading = "○○大学精神科"     # 医局列の見出し（local_csv が空なら列は出ない）
+local_sub = "医局の歩み"
+local_after = "japan"      # 医局列をどの列の右に入れるか
+columns = [               # 左ページ 3 列 → 右ページ 3 列の順
+  {track = "world",     heading = "隔離と解放",       sub = "世界の制度・思潮"},
+  {track = "japan",     heading = "監置から病院へ",   sub = "日本の制度・事件"},
+  {track = "society",   heading = "時代とこころ",     sub = "社会・文化"},
+  {track = "diagnosis", heading = "病を名づける",     sub = "疾患概念・診断"},
+  {track = "mind",      heading = "こころを読む",     sub = "精神病理・精神療法"},
+  {track = "somatic",   heading = "からだに効かせる", sub = "身体療法・薬物"},
+]
+column_widths = "auto"     # "auto"＝組版量に比例して配分。数値配列（左→右の列順の比率）でも可
+run_in = true             # 同じ年の通常項目を 1 段落に追い込む（h・v は独立）
+color_tags = {ethics = "#b3261e", sleep = "#0b7a75"}   # 該当タグの項目の本文を色付け
+include_tags = []         # 空なら全件。指定時はいずれかを含む項目のみ（keep_tags は常に残る）
+exclude_tags = []
+keep_tags = ["exam"]      # 絞り込みや自動調整でも落とさず太字にするタグ
+max_importance = 3
+ancient_cutoff = 1800     # これより前は左余白の古代箱に箇条で並べる
+sync_years = [1900, 1950, 1995]   # 全 6 列の高さをそろえる境（見開きを横切る帯もここだけ）

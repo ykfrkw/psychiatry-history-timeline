@@ -1,0 +1,6 @@
+id,year_start,year_end,year_label,track,title,detail,people,region,tags,importance,source,source_url,status
+L001,1902,,,local,医局 創設（初代教授 着任）,,,日,exam,2,医局沿革（ダミー）,,draft
+L002,1951,,,local,附属病院 精神科病棟 開設,,,日,,2,医局沿革（ダミー）,,draft
+L003,1975,,,local,睡眠検査室 開設,,,日,sleep,2,医局沿革（ダミー）,,draft
+L004,1998,,,local,デイケア 開始,,,日,,2,医局沿革（ダミー）,,draft
+L005,2015,,,local,不眠症 CBT-I 外来 開設,,,日,sleep,2,医局沿革（ダミー）,,draft

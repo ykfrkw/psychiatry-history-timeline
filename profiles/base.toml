@@ -1,0 +1,47 @@
+# 共通の土台（正本）。公開版・各医局版はこれを extends し、題名と右端の医局列だけを上書きする。キーの意味は README.md を参照
+title = "精神医学の歴史"
+local_csv = ""
+local_heading = ""
+subtitle = ""
+show_legend = false
+show_era_index = false
+show_column_eras = false
+show_era_rules = false    # 列内の時代境の細い破線は出さない（同期の破線だけにする）
+show_band_labels = false
+show_bands = false
+bold_tags = []            # 太字は重要度1だけ（exam は落とさない保護のみ）
+corner_title = "隔離から地域へ"
+essay = "精神医学は、収容施設で精神病を診る医学として始まり、脳病理、精神病理と精神療法、薬理、社会的事件と法制度、公衆衛生という系譜が、交わりながら対象を広げてきた。"
+events_csv = "data/events.csv"
+eras_csv = "data/eras.csv"
+local_sub = ""
+local_after = "somatic"      # 医局列をどの列の右に入れるか
+columns = [               # 左ページ 3 列 → 右ページ 3 列の順
+  {track = "world",     heading = "世界の制度・社会",       sub = ""},
+  {track = "japan",     heading = "日本の制度・事件",   sub = ""},
+  {track = "society",   heading = "日本の社会",   sub = ""},
+  {track = "diagnosis", heading = "疾患概念・診断",     sub = ""},
+  {track = "mind",      heading = "精神病理・精神療法",     sub = ""},
+  {track = "somatic",   heading = "身体療法・薬物", sub = ""},
+]
+# 左ページ: 世界・日本の制度を同幅（64mm）、日本の社会 43mm。右ページ: 医学の 3 列を同幅、医局列を細く（オーナー指定）
+column_widths = [64, 64, 43, 54.08, 54.08, 54.08, 36.75]
+run_in = true             # 同じ年の通常項目を 1 段落に追い込む（h・v は独立）
+color_tags = {ethics = "#b3261e", sleep = "#0b7a75"} # 該当タグの項目の本文を色付け
+include_tags = []         # 空なら全件。指定時はいずれかを含む項目のみ（keep_tags は常に残る）
+exclude_tags = ["unverified", "candidate"]   # 裏取りで確認できなかった項目と、掲載を検討中の候補（candidate）は全版で外す
+keep_tags = ["exam"]      # 絞り込みや自動調整でも落とさず太字にするタグ
+max_importance = 3
+ancient_cutoff = 1775     # これより前は左余白の古代箱。1776 アメリカ独立宣言以降を本流の列に入れる
+sync_years = []   # 全 6 列の高さをそろえる境（見開きを横切る帯もここだけ）
+soft_sync_years = [1945, 1980, 2000]   # 終戦・DSM-III・2000 の位置を列間でおおよそそろえる（オーナー指定）
+soft_sync_tolerance_mm = 10       # sync_mode = "lowest" のときに許すずれ（mm）
+sync_mode = "anchor"              # 項目が最も多い列（日本の制度・事件）を動かさず、他の列をその高さに寄せる
+sync_anchor_max_up_mm = 5         # 基準列より上に残してよいずれ（mm）。中身が多い列は基準より下でよい
+sync_stops_bands = true           # 縦帯の回り込みを同期線で止める（帯が下の年代に食い込まない）
+font_step_pt = 0.02               # 最長の列が下端までぴったり埋まる大きさを細かく探す
+drop_levels = []                  # 項目は落とさず、字の大きさだけで収める
+
+# 項目クリックで Wikipedia／Amazon（書籍）／PubMed へのリンクを出す（検索語は data/links.csv）
+link_menu = true
+amazon_tag = "furuyan2009-22"

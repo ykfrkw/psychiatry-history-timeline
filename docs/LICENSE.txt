@@ -1,0 +1,19 @@
+精神医学の歴史（年表）
+© 2026 古川由己（精神科医）
+
+この年表（PDF・HTML・data/events.csv）は、クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）で提供します。
+
+要約（法的な条文ではありません。正式には全文を参照してください）
+- 共有: どのような媒体・形式でも、複製・再配布できます
+- 翻案: 改変・加筆・一部の抜き出しができます（医局版・講義資料など）
+- 営利目的を含め、どのような目的でも利用できます
+- 条件: 適切なクレジットを表示し、ライセンスへのリンクを示し、改変した場合はその旨を示してください
+
+クレジット表記の例
+  「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/
+  （改変した場合）「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/ をもとに○○が改変
+
+全文: https://creativecommons.org/licenses/by/4.0/legalcode.ja
+
+各項目の出典は data/events.csv の source 列、HTML 版では各項目にマウスを重ねると表示されます。
+誤りに気づいた場合は、ブログ（https://yukifurukawa.jp/）から知らせてください。

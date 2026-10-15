@@ -1,0 +1,128 @@
+<!doctype html>
+<!--
+  Purpose: 公開サイトの入口。年表（A3 版 HTML）を iframe で拡大縮小・横スクロールして見せ、PDF・CSV の入手先とライセンスを示す
+  Inputs:  timeline/site.py が {{...}} を差し込む。同じフォルダの timeline.html・PDF・data/events.csv
+  Outputs: site/index.html（静的ファイルのみ。外部 CDN なし）
+  Depends: なし
+-->
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>精神医学の歴史｜年表（A3・PDF）</title>
+<meta name="description" content="古代から現在までの精神医学の歩みを、制度・社会・診断・精神療法・身体療法の 6 列で見開きにまとめた縦組みの年表です。A3 1 枚（または A4 2 枚）に印刷でき、右端の空欄の列に医局や病院の沿革を書き込めます。">
+<meta property="og:title" content="精神医学の歴史｜年表">
+<meta property="og:description" content="古代から現在までの精神医学の歩みを、制度・社会・診断・精神療法・身体療法の 6 列で見開きにまとめた縦組みの年表です。A3 1 枚（または A4 2 枚）に印刷でき、右端の空欄の列に医局や病院の沿革を書き込めます。">
+<meta property="og:image" content="preview.png">
+<style>
+  :root {
+    --ink: #1d1d1d;
+    --ink-soft: #5c5850;
+    --paper: #fffdf8;
+    --surface: #f3f1ec;
+    --rule: #cfc8b9;
+    --accent: #34403a;
+    --accent-ink: #fff;
+    --font-sans: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", sans-serif;
+    --font-serif: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+    --gap: 16px;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: var(--font-sans); color: var(--ink); background: var(--surface); line-height: 1.6; }
+  a { color: inherit; }
+  .site-head { display: grid; gap: 10px; padding: var(--gap); background: var(--paper); border-bottom: 1px solid var(--rule); }
+  .site-title { font-family: var(--font-serif); font-size: clamp(20px, 4vw, 28px); letter-spacing: 0.06em; }
+  .lead { color: var(--ink-soft); font-size: 14px; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .button { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 14px; border-radius: 6px;
+    border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); text-decoration: none; font-size: 14px; }
+  .button.secondary { background: transparent; color: var(--accent); }
+  .toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; padding: 8px var(--gap); font-size: 13px;
+    background: var(--paper); border-bottom: 1px solid var(--rule); position: sticky; top: 0; z-index: 1; }
+  .toolbar button { min-width: 44px; min-height: 36px; border: 1px solid var(--rule); background: #fff; border-radius: 4px;
+    font: inherit; cursor: pointer; }
+  .zoom-value { min-width: 4em; text-align: center; font-feature-settings: "tnum"; }
+  .hint { color: var(--ink-soft); margin-left: auto; }
+  .viewer { overflow: auto; height: calc(100vh - 56px); min-height: 360px; -webkit-overflow-scrolling: touch; }
+  .stage { position: relative; margin: var(--gap); }
+  .stage iframe { position: absolute; top: 0; left: 0; border: 0; background: #fff; transform-origin: 0 0;
+    box-shadow: 0 1px 6px rgb(0 0 0 / 0.15); }
+  .site-foot { display: grid; gap: 8px; padding: var(--gap); font-size: 13px; color: var(--ink-soft); background: var(--paper);
+    border-top: 1px solid var(--rule); }
+  .site-foot code { background: var(--surface); padding: 0 4px; border-radius: 3px; }
+  @media (max-width: 640px) { .hint { display: none; } }
+</style>
+</head>
+<body>
+<header class="site-head">
+  <h1 class="site-title">精神医学の歴史</h1>
+  <p class="lead">古代から現在までの精神医学の歩みを、制度・社会・診断・精神療法・身体療法の 6 列で見開きにまとめた縦組みの年表です。A3 1 枚（または A4 2 枚）に印刷でき、右端の空欄の列に医局や病院の沿革を書き込めます。</p>
+  <nav class="actions" aria-label="ダウンロード">
+    <a class="button" href="psychiatry-history-timeline_A3.pdf" download>PDF をダウンロード（A3 横 1 枚）</a>
+    <a class="button" href="psychiatry-history-timeline_A4x2.pdf" download>PDF をダウンロード（A4 縦 2 枚・見開き）</a>
+    <a class="button secondary" href="data/events.csv" download>データ（CSV）</a>
+    <a class="button secondary" href="https://yukifurukawa.jp/">ブログ記事へ戻る</a>
+  </nav>
+</header>
+<div class="toolbar" role="toolbar" aria-label="表示倍率">
+  <button type="button" data-zoom="out" aria-label="縮小">−</button>
+  <span class="zoom-value" aria-live="polite">100%</span>
+  <button type="button" data-zoom="in" aria-label="拡大">＋</button>
+  <button type="button" data-zoom="fit">幅に合わせる</button>
+  <button type="button" data-zoom="actual">原寸</button>
+  <span class="hint">各項目にマウスを重ねると補足と出典が出ます</span>
+</div>
+<main class="viewer">
+  <div class="stage"><iframe src="timeline.html" title="精神医学の歴史（A3 年表）" loading="eager"></iframe></div>
+</main>
+<footer class="site-foot">
+  <p>© 2026 古川由己（精神科医）／CC BY 4.0／最新版と出典: https://ykfrkw.github.io/psychiatry-history-timeline/</p>
+  <p>ライセンス: <a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC BY 4.0</a>（クレジットを表示すれば、改変・再配布・商用利用ができます）。詳しくは <a href="LICENSE.txt">LICENSE.txt</a>。
+    クレジット表記の例: <code>「精神医学の歴史」古川由己（精神科医）, CC BY 4.0, https://ykfrkw.github.io/psychiatry-history-timeline/</code></p>
+  <p>右端の空欄の列は、医局・病院・学会などの沿革を手書きで書き込むためのものです。医局版を作る手順は <a href="README.md">README.md</a> を参照してください。</p>
+  <p>最終更新: 2026-10-15　掲載 324 項目</p>
+</footer>
+<script type="module">
+  const CANVAS_WIDTH_PX = 420 * 96 / 25.4;
+  const CANVAS_HEIGHT_PX = 297 * 96 / 25.4;
+  const ZOOM_STEP = 1.25;
+  const ZOOM_MIN = 0.2;
+  const ZOOM_MAX = 4;
+  // 狭い画面で全体を縮めると字が読めないので、横スクロール前提の倍率で始める
+  const NARROW_SCREEN_PX = 700;
+  const NARROW_START_ZOOM = 0.6;
+
+  const viewer = document.querySelector(".viewer");
+  const stage = document.querySelector(".stage");
+  const frame = stage.querySelector("iframe");
+  const zoomLabel = document.querySelector(".zoom-value");
+  frame.style.width = `${CANVAS_WIDTH_PX}px`;
+  frame.style.height = `${CANVAS_HEIGHT_PX}px`;
+
+  const fitZoom = () => {
+    const marginPx = parseFloat(getComputedStyle(stage).marginLeft) * 2;
+    return (viewer.clientWidth - marginPx) / CANVAS_WIDTH_PX;
+  };
+  const clampZoom = (zoom) => Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, zoom));
+  let zoom = 1;
+  const applyZoom = (next) => {
+    zoom = clampZoom(next);
+    frame.style.transform = `scale(${zoom})`;
+    stage.style.width = `${CANVAS_WIDTH_PX * zoom}px`;
+    stage.style.height = `${CANVAS_HEIGHT_PX * zoom}px`;
+    zoomLabel.textContent = `${Math.round(zoom * 100)}%`;
+  };
+  const actions = {
+    in: () => applyZoom(zoom * ZOOM_STEP),
+    out: () => applyZoom(zoom / ZOOM_STEP),
+    fit: () => applyZoom(fitZoom()),
+    actual: () => applyZoom(1),
+  };
+  document.querySelectorAll("[data-zoom]").forEach((button) => {
+    button.addEventListener("click", () => actions[button.dataset.zoom]());
+  });
+  // 画面では原寸で見せる（縮めると文字が詰まって読めない）。狭い画面だけ縮小して始める
+  applyZoom(window.innerWidth < NARROW_SCREEN_PX ? NARROW_START_ZOOM : 1);
+</script>
+</body>
+</html>

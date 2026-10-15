@@ -1,0 +1,325 @@
+﻿id,year_start,year_end,year_label,track,title,detail,people,region,tags,importance,source,source_url,status,emphasis
+e0001,-400,,BC5c,diagnosis,ヒポクラテス 四体液説,黒胆汁など体液の不均衡で病を説明,Hippocrates,ギ,exam,1,Hippocratic Corpus『人間の自然性について』; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,h
+e0002,-100,,BC1c,diagnosis,黄帝内経 癲狂篇,『霊枢』癲狂篇に躁的・痙攣性の病態の記載。成立年は諸説,,中,,3,『黄帝内経霊枢』癲狂篇第22; Unschuld PU. Huang Di Nei Jing Ling Shu. Univ California Press 2016,,corrected,
+e0003,170,,2c,diagnosis,ガレノス 体液病理学,四体液説を体系化し中世まで支配,Galen,ロ,exam,2,Galen『体液について』; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0004,550,,6c,diagnosis,スシュルタ本集 精神病言及,成立年は諸説（伝承は前6世紀、現存本文は後代）。後編ウッタラタントラ62章に狂気（ウンマーダ）,Sushruta,印,,3,Suśruta Saṃhitā Uttaratantra 62章（Unmāda）; Wujastyk D. The Roots of Ayurveda. Penguin 2003,,docx,
+e0005,1377,,1377,world,ベスレム病院 精神病者収容,1247年創設の修道院。1377年頃までに精神病者を収容,Bethlem,英,,2,Andrews J et al. The History of Bethlem. Routledge 1997,,docx,
+e0006,1512,,1512,society,日本初の梅毒の記載,竹田秀慶『月海録』に「唐瘡」。後の進行麻痺につながる,竹田秀慶,日,,3,竹田秀慶『月海録』（永正9年）; 土肥慶蔵『世界黴毒史』1921,,docx,
+e0007,1563,,1563,world,ヴァイヤー 魔女狩り批判,『悪魔の幻惑について』。魔女を病者とみなす,Weyer,独,exam,1,Weyer J. De praestigiis daemonum. Basel 1563; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,h
+e0008,1656,,1656,world,パリ 一般施療院 設立,狂人・浮浪者の「大いなる閉じ込め」（フーコー）,,仏,,3,Foucault M. Histoire de la folie à l'âge classique 1961; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0009,1774,,1774,world,若きウェルテルの悩み,ゲーテ。模倣自殺（ウェルテル効果）の語源,Goethe,独,,1,Goethe JW. Die Leiden des jungen Werthers 1774; Phillips DP. Am Sociol Rev 1974;39:340-354,,docx,h
+e0010,1786,,1786,world,鎖からの解放,キアルージ（フィレンツェ）。年は諸説,Chiarugi,伊,,1,"Chiarugi V. Della pazzia in genere, e in specie 1793–94; Shorter E. A History of Psychiatry. Wiley 1997",,docx,v
+e0011,1787,1793,1787–93,world,A・ジョリー 鎖の廃止（ジュネーブ）,病院管理者在任中に鎖を拘束衣へ。年は推定（記録なし）,Abraham Joly,スイス,,3,"Dreifuss JJ. Un briseur de chaînes, l’hospitalier Abraham Joly. Rev Med Suisse 2009;5:1228-31; Dictionnaire historique de la Suisse「Joly, Abraham」（R. Mayer）",https://archive-ouverte.unige.ch/unige:103835,docx,
+e0012,1788,,1788,world,ジョージ3世の精神病,英国王の発病。拘束椅子が用いられ精神医療への関心が高まる,George III,英,,3,"Macalpine I, Hunter R. George III and the Mad-Business. 1969; Shorter E. A History of Psychiatry. Wiley 1997",,docx,
+e0013,1793,,1793,world,ピネル 鎖からの解放,ビセートル病院。実はピュサン主導,Pinel; Pussin,仏,exam,1,Weiner DB. Am J Psychiatry 1979;136:1128-1134（Pussin の役割）; Shorter E. A History of Psychiatry. Wiley 1997,,docx,
+e0014,1796,,1796,world,テューク ヨーク・リトリート,クエーカー教徒による道徳療法,William Tuke,英,exam,2,Tuke S. Description of the Retreat. York 1813; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0015,1808,,1808,mind,精神医学 命名,Psychiaterie ライル,Reil,独,exam,2,Reil JC. Beyträge zur Beförderung einer Curmethode auf psychischem Wege 1808; Marneros A. Br J Psychiatry 2008;193:1-3,,docx,hl
+e0016,1817,,1817,diagnosis,パーキンソン 振戦麻痺,An Essay on the Shaking Palsy,Parkinson,英,,3,Parkinson J. An Essay on the Shaking Palsy. London 1817,,web_added,
+e0017,1818,,1818,japan,石丸癲狂院（大阪・豊中）,石丸周吾が熊野田に収容施設。年は推定（文政年間）,石丸周吾,日,,3,小俣和一郎『精神病院の起源』太田出版 p.158-161（1818年頃）; 『新修豊中市史 第1巻 通史1』p.840（文政年間）; 国立国会図書館レファレンス協同DB（豊中市立図書館）,https://crd.ndl.go.jp/reference/entry/index.php?id=1000316484&page=ref_view,corrected,
+e0018,1838,,1838,world,フランス 1838年法,県立精神病院の設置と入院手続きを規定,,仏,law,2,Loi du 30 juin 1838 sur les aliénés（Légifrance）; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0019,1838,,1838,mind,エスキロール『精神疾患論』,幻覚と錯覚を区別。モノマニー,Esquirol,仏,exam;psychopathology,2,Esquirol JED. Des maladies mentales. Paris 1838,,web_added,
+e0020,1843,,1843,world,マクノートン・ルール,責任能力判定基準,McNaughtan,英,forensic,2,M'Naghten's Case (1843) 10 Cl & F 200,,web_added,
+e0021,1844,,1844,world,米国精神医学会の前身 設立,AMSAII（13人の病院長）,,米,,3,American Psychiatric Association: History of the APA（1844 AMSAII 設立）,,web_added,
+e0022,1845,,1845,diagnosis,グリージンガー 脳病説,「精神病は脳病」。単一精神病論,Griesinger,独,exam,1,Griesinger W. Die Pathologie und Therapie der psychischen Krankheiten. Stuttgart 1845,,web_added,h
+e0023,1852,,1852,diagnosis,モレル「早発性痴呆」,démence précoce の語。1860年『精神病論』とする説も,Morel,仏,exam;psychopathology,2,Morel BA. Études cliniques 1852; Morel BA. Traité des maladies mentales 1860; Berrios GE. Br J Psychiatry 2003,,docx,
+e0024,1857,,1857,diagnosis,モレル 変質論,遺伝的変質が世代を経て進行するとする,Morel,仏,exam,2,Morel BA. Traité des dégénérescences. Paris 1857,,web_added,
+e0025,1861,,1861,diagnosis,ブローカ野の発見,運動性失語の責任病巣,Broca,仏,,2,Broca P. Bull Soc Anat Paris 1861;6:330-357,,docx,
+e0026,1866,,1866,diagnosis,ダウン症候群の記載,Langdon Down,Langdon Down,英,child,3,Down JLH. London Hosp Clin Lect Rep 1866;3:259-262,,web_added,
+e0027,1871,,1871,diagnosis,ヘッカー「破瓜病」,Hebephrenie,Hecker,独,exam;psychopathology,2,Hecker E. Arch Pathol Anat Physiol Klin Med 1871;52:394-429,,docx,
+e0028,1872,,1872,japan,東京府養育院 設立,窮民収容施設。ロシア皇子来日に備えた困窮者収容が発端とされる。のち癲狂室が東京府癲狂院に,,日,,3,東京都健康長寿医療センター 沿革（養育院 1872年創設）; 東京都福祉局 石神井学園 沿革（明治5年 東京府養育院創立）,,corrected,
+e0029,1872,,1872,diagnosis,ハンチントン病の記載,Huntington,Huntington,米,dementia,3,Huntington G. Med Surg Reporter 1872;26:317-321,,web_added,
+e0030,1874,,1874,diagnosis,ウェルニッケ野の発見,感覚性失語,Wernicke,独,,2,Wernicke C. Der aphasische Symptomencomplex. Breslau 1874,,docx,
+e0031,1874,,1874,diagnosis,カールバウム「緊張病」,Katatonie,Kahlbaum,独,exam;psychopathology,2,Kahlbaum KL. Die Katatonie oder das Spannungsirresein. Berlin 1874,,docx,
+e0032,1875,,1875,japan,京都癲狂院,日本初の公立精神病院（南禅寺内）。1882廃止,,日,exam,2,京都府「京都府の医療の歴史」（明治8年 京都府癲狂院）; 岡田靖雄『日本精神科医療史』医学書院 2002,,web_added,
+e0033,1877,,1877,diagnosis,ラセーグ・ファルレ 二人組精神病,folie à deux,Lasègue; Falret,仏,psychopathology,3,"Lasègue C, Falret J. Ann Med Psychol 1877;18:321-355",,web_added,
+e0034,1879,,1879,japan,東京府癲狂院,養育院癲狂室を引継ぐ。巣鴨病院（1889）→松沢病院の起源,,日,exam,1,東京都立松沢病院 沿革; 岡田靖雄『日本精神科医療史』医学書院 2002,,web_added,
+e0035,1880,,1880,diagnosis,コタール症候群,否定妄想,Cotard,仏,exam;psychopathology,2,Cotard J. Ann Med Psychol 1880;4:168-174（1882 délire des négations）,,web_added,
+e0036,1880,,1880,diagnosis,ジェリノー「ナルコレプシー」,命名,Gélineau,仏,exam;sleep,2,"Gélineau J. Gaz Hop 1880;53:626-628, 635-637",,corrected,
+e0037,1881,,1881,diagnosis,ウェルニッケ脳症,眼球運動障害・失調・意識障害,Wernicke,独,exam;addiction,2,Wernicke C. Lehrbuch der Gehirnkrankheiten Bd.2. Kassel 1881,,web_added,
+e0038,1882,,1882,mind,シャルコー ヒステリーと催眠,サルペトリエール。フロイト・ジャネが学ぶ,Charcot,仏,exam,2,Charcot JM. C R Acad Sci 1882;94:403-405; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0039,1883,1895,1883–95,japan,相馬事件,相馬藩主の監禁を錦織剛清が告発,相馬誠胤; 錦織剛清,日,exam;law,1,世界大百科事典（コトバンク）相馬事件,https://kotobank.jp/word/%E7%9B%B8%E9%A6%AC%E4%BA%8B%E4%BB%B6-1180947,corrected,h
+e0040,1884,,1884,japan,岩倉癲狂院 開設,岩倉村の家庭看護（大雲寺伝承）を背景に。京都癲狂院の患者を受け入れ,,日,exam,2,科研費 KAKENHI 17K01177 成果報告（岩倉癲狂院 1884）; 日本大百科全書「大雲寺」（コトバンク）,https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K01177,web_added,
+e0041,1884,,1884,diagnosis,ニッスル染色,神経細胞の染色法。年は諸説（1884/1894 発表）,Nissl,独,,3,Nissl F. 1885 ミュンヘン大学懸賞論文; Nissl F. Neurol Centralbl 1894;13:676,,docx,
+e0042,1887,,1887,diagnosis,ベルリン「読字障害」,眼科医が Dyslexie を命名（1887年の論文。1883年とする説も）,Rudolf Berlin,独,child,3,Berlin R. Eine besondere Art der Wortblindheit (Dyslexie). Wiesbaden 1887; Wagner RF. Bull Orton Soc 1973;23:57-63,,docx,
+e0043,1886,,1886,japan,榊俶 精神病学講座 初代教授,帝国大学医科大学で精神病学講義を開始,榊俶,日,exam,2,岡田靖雄ほか 精神医学 1985（榊俶 1886年12月3日 第1回精神病学講義）; 岡田靖雄『日本精神科医療史』医学書院 2002,https://webview.isho.jp/journal/detail/abs/10.11477/mf.1405204059,corrected,
+e0044,1886,,1886,world,ルートヴィヒ2世 謎の死,精神病の鑑定後に主治医グッデンと共に溺死,Ludwig II; Gudden,独,,3,"Encyclopaedia Britannica「Louis II, king of Bavaria」; Shorter E. A History of Psychiatry. Wiley 1997",,docx,
+e0045,1887,,1887,diagnosis,コルサコフ症候群,健忘・作話。アルコール性多発神経炎に伴う,Korsakoff,露,exam;addiction,2,"Korsakoff SS. Vestn Psikhiatr 1887; Victor M, Yakovlev PI. Neurology 1955;5:394",,web_added,
+e0046,1889,,1889,mind,ジャネ『心理自動症』,解離・心理的力の概念,Janet,仏,exam,2,Janet P. L'automatisme psychologique. Paris 1889,,web_added,
+e0047,1892,,1892,diagnosis,ピック病の記載,前頭側頭葉変性症の原型,Pick,チェコ,dementia,2,Pick A. Prager Med Wochenschr 1892;17:165-167,,web_added,
+e0048,1895,,1895,mind,ブロイアー・フロイト『ヒステリー研究』,カタルシス法。アンナ・O,Breuer; Freud,墺,exam;psychotherapy,2,"Breuer J, Freud S. Studien über Hysterie. Wien 1895",,web_added,
+e0049,1898,,1898,diagnosis,ガンザー症候群,的外れ応答,Ganser,独,exam;forensic,2,Ganser SJ. Arch Psychiatr Nervenkr 1898;30:633-640,,web_added,
+e0050,1899,,1899,diagnosis,二大精神病,クレペリン。早発性痴呆と躁うつ病を区分,Kraepelin,独,exam;diagnosis,1,Kraepelin E. Psychiatrie 6. Aufl. Leipzig 1899,,docx,v
+e0051,1900,,1900,japan,精神病者監護法,私宅監置を合法化,,日,exam;law,1,日本法令索引（国立国会図書館）: 精神病者監護法（明治33年法律第38号）,,web_added,
+e0052,1900,,1900,mind,精神分析,フロイト『夢判断』。無意識と夢の解釈,Freud,墺,exam;psychotherapy,1,Freud S. Die Traumdeutung. Wien 1899（奥付1900）,,web_added,v
+e0053,1901,,1901,japan,呉秀三 東大教授・巣鴨病院長,拘束具を廃し作業療法を導入,呉秀三,日,exam,2,日本大百科全書「呉秀三」（コトバンク）; 岡田靖雄『日本精神科医療史』医学書院 2002,https://kotobank.jp/word/%E5%91%89%E7%A7%80%E4%B8%89-57532,web_added,
+e0054,1902,,1902,japan,日本神経学会 発足,呉秀三・三浦謹之助ら。1935年に日本精神神経学会へ改称,呉秀三; 三浦謹之助,日,exam,2,日本精神神経学会「学会の歴史」（1902 日本神経学会、1935 改称）,,docx,
+e0055,1902,,1902,diagnosis,スティル 注意・抑制の障害,ADHD の原型とされる講義,Still,英,child,3,"Still GF. Lancet 1902;159:1008-1012, 1077-1082, 1163-1168",,web_added,
+e0056,1904,,1904,mind,パヴロフ ノーベル賞（消化腺の生理学）,消化腺研究。条件反射は行動療法の基盤,Pavlov,露,nobel,3,Nobel Prize in Physiology or Medicine 1904,https://www.nobelprize.org/prizes/medicine/1904/summary/,web_added,
+e0057,1905,,1905,diagnosis,ビネー 知能検査,Binet-Simon 尺度,Binet; Simon,仏,child,2,"Binet A, Simon T. Année Psychol 1905;11:191-244",,web_added,
+e0058,1906,,1906,diagnosis,アルツハイマー 症例報告,,Alzheimer,独,exam;dementia,1,Alzheimer A. Allg Z Psychiatr 1907;64:146-148（1906年11月 テュービンゲン講演）,,corrected,h
+e0059,1907,,1907,japan,刑法39条 心神喪失・耗弱,1908施行,,日,forensic;law,2,日本法令索引（国立国会図書館）: 刑法（明治40年法律第45号）第39条、1908施行,,web_added,
+e0060,1908,,1908,world,ビアーズ 精神衛生運動,『わが魂にあうまで』。翌年全米精神衛生委員会,Beers,米,exam,2,Beers CW. A Mind That Found Itself. 1908; Mental Health America 沿革（1909 NCMH）,,web_added,
+e0062,1911,,1911,diagnosis,『精神分裂病』,ブロイラー。Schizophrenie を命名。4つのA,Bleuler,スイス,exam;psychopathology,1,Bleuler E. Dementia praecox oder Gruppe der Schizophrenien. Leipzig 1911,,docx,v
+e0063,1912,,1912,mind,アドラー 個人心理学,劣等感・権力への意志,Adler,墺,exam;psychotherapy,2,Adler A. Über den nervösen Charakter. Wiesbaden 1912,,web_added,
+e0064,1912,,1912,somatic,フェノバルビタール 発売,1911年合成、ルミナールとして発売,,独,drug,3,Hauptmann A. Münch Med Wochenschr 1912;59:1907-1909; López-Muñoz F et al. Neuropsychiatr Dis Treat 2005;1:329,,docx,
+e0065,1913,,1913,mind,マイヤー 精神生物学,フィップス・クリニック開設。米国精神医学を主導,Adolf Meyer,米,exam,2,Johns Hopkins Medicine: Henry Phipps Psychiatric Clinic 1913; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0066,1913,,1913,mind,ヤスパース『精神病理学総論』,了解と説明。記述現象学,Jaspers,独,exam;psychopathology,1,Jaspers K. Allgemeine Psychopathologie. Berlin 1913,,docx,h
+e0067,1913,,1913,diagnosis,野口英世 進行麻痺脳に梅毒,進行麻痺の病因を確定,野口英世,米,exam,2,"Noguchi H, Moore JW. J Exp Med 1913;17:232-238",,docx,
+e0068,1917,,1917,diagnosis,エコノモ 嗜眠性脳炎,睡眠中枢の発想につながる,von Economo,墺,sleep,3,von Economo C. Wien Klin Wochenschr 1917;30:581-585,,web_added,
+e0069,1917,,1917,mind,フロイト『精神分析入門』,1916-17年の講義録,Freud,墺,psychotherapy,2,Freud S. Vorlesungen zur Einführung in die Psychoanalyse. Wien 1916–17,,docx,
+e0070,1917,,1917,somatic,マラリア療法,ワグナー＝ヤウレック。進行麻痺に。ノーベル賞,Wagner-Jauregg,墺,exam;somatic;nobel,1,Nobel Prize in Physiology or Medicine 1927; Wagner-Jauregg J. Psychiatr Neurol Wochenschr 1918,https://www.nobelprize.org/prizes/medicine/1927/summary/,web_added,h
+e0071,1918,,1918,japan,呉秀三/私宅監置,呉秀三・樫田五郎『精神病者私宅監置ノ実況及ビ其統計的観察』「この国に生まれたるの不幸」,呉秀三; 樫田五郎,日,exam;ethics,1,呉秀三・樫田五郎『精神病者私宅監置ノ実況及ビ其統計的観察』東京医学会雑誌 1918; 岡田靖雄『日本精神科医療史』医学書院 2002,,docx,v
+e0072,1918,,1918,world,スペイン風邪 流行,,,,,3,"CDC: 1918 Pandemic (H1N1 virus); Taubenberger JK, Morens DM. Emerg Infect Dis 2006;12:15-22",,web_added,
+e0073,1919,,1919,japan,松沢病院 移転開院,東京府巣鴨病院が荏原郡松沢村へ,,日,exam,2,東京都立松沢病院 沿革（1919年11月 松沢村へ移転）; 岡田靖雄『日本精神科医療史』医学書院 2002,,web_added,
+e0074,1919,,1919,japan,精神病院法,公立精神病院の設置を規定。財政難で整備は進まず,,日,exam;law,1,日本法令索引（国立国会図書館）: 精神病院法（大正8年法律第25号）,,corrected,
+e0075,1919,,1919,mind,森田正馬 森田療法,,森田正馬,日,exam;psychotherapy,1,森田正馬『神経質及神経衰弱症の療法』1921; 日本森田療法学会「森田療法とは」,,web_added,h
+e0076,1920,,1920,somatic,クレージ 持続睡眠療法,ソムニフェンによる,Kläsi,スイス,exam;somatic,2,Kläsi J. Z Gesamte Neurol Psychiatr 1922;74:557-592,,web_added,
+e0077,1921,,1921,mind,クレッチマー『体格と性格』,循環気質・分裂気質,Kretschmer,独,exam;psychopathology,1,Kretschmer E. Körperbau und Charakter. Berlin 1921,,web_added,
+e0078,1921,,1921,diagnosis,ド・クレランボー症候群,恋愛妄想（エロトマニー）,de Clérambault,仏,exam;psychopathology,2,de Clérambault GG. Bull Soc Clin Med Ment 1921; Œuvre psychiatrique 1942,,web_added,
+e0079,1921,,1921,mind,ユング『心理学的類型』,,Jung,スイス,exam;psychotherapy,1,Jung CG. Psychologische Typen. Zürich 1921,,web_added,h
+e0080,1923,,1923,diagnosis,カプグラ症候群,替え玉妄想,Capgras,仏,exam;psychopathology,2,"Capgras J, Reboul-Lachaux J. Bull Soc Clin Med Ment 1923;11:6-16",,web_added,
+e0081,1923,,1923,mind,フロイト 構造論,『自我とエス』。自我・エス・超自我,Freud,墺,exam;psychotherapy,2,Freud S. Das Ich und das Es. Wien 1923,,web_added,
+e0082,1923,,1923,society,関東大震災,,,日,disaster,3,内閣府 防災情報「1923 関東大震災報告書」,,web_added,
+e0083,1927,,1927,mind,ミンコフスキー『精神分裂病』,現実との生ける接触の喪失,Minkowski,仏,exam;psychopathology,2,Minkowski E. La schizophrénie. Paris 1927,,web_added,
+e0084,1928,,1928,world,フレミング ペニシリン発見,のち進行麻痺の治療を変える,Fleming,英,,3,Fleming A. Br J Exp Pathol 1929;10:226-236（発見1928）; Nobel Prize 1945,https://www.nobelprize.org/prizes/medicine/1945/summary/,docx,
+e0085,1929,,1929,diagnosis,ベルガー 脳波,ヒトの脳波を報告（初記録1924）,Berger,独,exam,2,Berger H. Arch Psychiatr Nervenkr 1929;87:527-570,,docx,
+e0086,1930,1939,1930s,mind,サリヴァン「関与しながらの観察」,対人関係論,Sullivan,米,psychotherapy,2,Sullivan HS. Conceptions of Modern Psychiatry 1940; The Interpersonal Theory of Psychiatry 1953,,docx,
+e0087,1933,,1933,somatic,ザーケル インスリンショック療法,ウィーン,Sakel,墺,exam;somatic,1,Sakel M. Wien Med Wochenschr 1934;84:1211（1933 臨床導入）; Shorter E. A History of Psychiatry. Wiley 1997,,docx,
+e0088,1934,,1934,somatic,メドゥナ 痙攣療法,樟脳（1934）、カルジアゾール（1935）,Meduna,ハンガリー,exam;somatic,2,Meduna L. Z Gesamte Neurol Psychiatr 1935;152:235-262; Fink M. Am J Psychiatry 1984;141:1034,,docx,
+e0089,1935,,1935,world,AA（アルコホーリクス・アノニマス）,自助グループ,,米,addiction,2,Alcoholics Anonymous: Historical Data（1935年6月10日 アクロン）,,web_added,
+e0090,1935,,1935,japan,日本精神神経学会に改称,日本神経学会から,,日,exam,3,日本精神神経学会「学会の歴史」（1935 改称）,,web_added,
+e0091,1935,,1935,somatic,ロボトミー,モニス。前頭葉白質切截術。ノーベル賞,Moniz; Lima,ポルトガル,exam;somatic;nobel,1,Moniz E. Tentatives opératoires dans le traitement de certaines psychoses. Paris 1936; Nobel Prize 1949,https://www.nobelprize.org/prizes/medicine/1949/summary/,docx,v
+e0092,1936,,1936,mind,アンナ・フロイト『自我と防衛機制』,Anna Freud,Anna Freud,墺,exam;psychotherapy,2,Freud A. Das Ich und die Abwehrmechanismen. Wien 1936,,web_added,
+e0093,1936,,1936,diagnosis,セリエ ストレス学説,汎適応症候群,Selye,加,exam,2,Selye H. Nature 1936;138:32,,web_added,
+e0094,1938,,1938,mind,スキナー オペラント条件づけ,『生体の行動』,Skinner,米,psychotherapy,3,Skinner BF. The Behavior of Organisms. New York 1938,,web_added,
+e0095,1938,,1938,somatic,電気痙攣療法,ECT。ツェルレッティとビニ（ローマ）,Cerletti; Bini,伊,exam;somatic,1,"Cerletti U, Bini L. Boll Accad Med Roma 1938;64:136-138; Shorter E. A History of Psychiatry. Wiley 1997",,docx,h
+e0096,1939,1941,1939–41,world,T4作戦,障害者・精神病者の組織的殺害。精神科医が関与,Hitler,独,exam;ethics,1,"United States Holocaust Memorial Museum: Euthanasia Program（T4, 1939–41）; Shorter E. A History of Psychiatry. Wiley 1997",https://encyclopedia.ushmm.org/content/en/article/euthanasia-program,docx,v
+e0097,1940,,1940,japan,国民優生法,断種を規定。優生保護法の前身,,日,exam;law;ethics,2,日本法令索引（国立国会図書館）: 国民優生法（昭和15年法律第107号）,,docx,
+e0098,1940,1949,1940s,mind,ビンスワンガー 現存在分析,Daseinsanalyse,Binswanger,スイス,exam;psychopathology,2,Binswanger L. Grundformen und Erkenntnis menschlichen Daseins. Zürich 1942,,web_added,
+e0099,1941,,1941,mind,下田光造 執着気質,躁うつ病の病前性格。1932年学会発表とする説も（諸説）,下田光造,日,exam;psychopathology,1,Revisiting Shimoda's Shuuchaku-Kishitsu (PMC3173958),https://pmc.ncbi.nlm.nih.gov/articles/PMC3173958/,corrected,
+e0100,1942,,1942,mind,ロジャーズ 来談者中心療法,非指示的カウンセリング,Rogers,米,exam;psychotherapy,1,Rogers CR. Counseling and Psychotherapy. Boston 1942,,web_added,
+e0101,1943,,1943,somatic,LSD の幻覚作用発見,Hofmann,Hofmann,スイス,addiction,3,Hofmann A. LSD: Mein Sorgenkind 1979（1943年4月 自己実験）; Nichols DE. Pharmacol Rev 2016;68:264,,web_added,
+e0102,1943,,1943,diagnosis,カナー 早期幼児自閉症,,Kanner,米,exam;child,1,Kanner L. Nerv Child 1943;2:217-250,,docx,h
+e0103,1944,,1944,diagnosis,アスペルガー 自閉的精神病質,1981年ウィングが再評価,Asperger,墺,exam;child,2,Asperger H. Arch Psychiatr Nervenkr 1944;117:76-136; Wing L. Psychol Med 1981;11:115-129,,web_added,
+e0104,1945,,1945,society,ヒロポン 市場流入,軍需在庫の放出で覚醒剤乱用が拡大,,日,addiction,2,法務省 犯罪白書（覚醒剤事犯の推移、第1次乱用期）; 国立精神・神経医療研究センター 薬物依存研究部,,docx,
+e0105,1946,,1946,world,米国 国家精神保健法,National Mental Health Act。1949年 NIMH 設立,,米,exam;law,2,NIH Almanac: NIMH（1946 National Mental Health Act、1949 設立）,https://www.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-mental-health-nimh,web_added,
+e0106,1946,,1946,mind,クライン 妄想分裂ポジション,抑うつポジション（1935）と対,Melanie Klein,英,exam;psychotherapy,2,Klein M. Int J Psychoanal 1946;27:99-110; Klein M. Int J Psychoanal 1935;16:145-174,,web_added,
+e0107,1946,,1946,world,フランクル『夜と霧』,強制収容所体験。のちロゴセラピー,Frankl,墺,,2,Frankl VE. …trotzdem Ja zum Leben sagen. Wien 1946（邦題『夜と霧』1956）,,corrected,
+e0108,1947,,1947,world,ニュルンベルク綱領,医師裁判で示された被験者保護原則,,独,exam;ethics,1,Trials of War Criminals before the Nuernberg Military Tribunals Vol.2 1949; Shuster E. N Engl J Med 1997;337:1436,,corrected,h
+e0109,1948,,1948,world,WHO 設立・世界精神保健連盟,,,スイス,,3,WHO: History（1948年4月7日 WHO憲章発効）; World Federation for Mental Health 沿革（1948 ロンドン）,https://www.who.int/about/history,web_added,
+e0110,1948,1996,1948–96,japan,優生保護法（1996年まで48年）,強制不妊手術を規定。1996 母体保護法で優生条項削除,,日,exam;law;ethics,1,日本法令索引（国立国会図書館）: 優生保護法（昭和23年法律第156号）→ 母体保護法（平成8年法律第105号）,,docx,
+e0112,1949,,1949,japan,日本精神病院協会 設立,現・日本精神科病院協会,,日,,3,日本精神科病院協会 沿革（1949年10月 日本精神病院協会設立）,,docx,
+e0113,1949,,1949,somatic,ケイド リチウム,躁病への効果を報告,Cade,豪,exam;drug,1,Cade JFJ. Med J Aust 1949;2:349-352,,docx,h
+e0114,1950,,1950,japan,精神衛生法,私宅監置を廃止、措置入院・同意入院を規定,,日,exam;law,1,日本法令索引（国立国会図書館）: 精神衛生法（昭和25年法律第123号）,,docx,h
+e0115,1950,,1950,mind,エリクソン『幼児期と社会』,心理社会的発達の8段階,Erikson,米,exam;child,2,Erikson EH. Childhood and Society. New York 1950,,web_added,
+e0116,1950,,1950,mind,シュナイダー 一級症状,,Kurt Schneider,独,exam;psychopathology;diagnosis,1,Schneider K. Klinische Psychopathologie. Stuttgart 1950（初出 1939）,,corrected,h
+e0117,1951,,1951,japan,覚醒剤取締法,,,日,addiction;law,2,日本法令索引（国立国会図書館）: 覚せい剤取締法（昭和26年法律第252号）,,docx,
+e0118,1952,,1952,somatic,修正型電気痙攣療法,筋弛緩薬（スキサメトニウム）併用。ホルムベリとテスレフ（ストックホルム）,Holmberg; Thesleff,スウェーデン,exam;somatic,2,"Holmberg G, Thesleff S. Am J Psychiatry 1952;108:842-846",https://psychiatryonline.org/doi/10.1176/ajp.108.11.842,docx,
+e0119,1952,1956,1952–56,japan,新潟精神病院 ツツガムシ人体実験,新潟大桂内科が患者149名に病原体注射。1957年日弁連警告,桂重鴻,日,ethics,2,第26回国会 衆議院文教委員会 1957-07-11 島野武証言（日弁連人権擁護委員会 恙虫病人体実験特別委員会の調査結果）,https://kokkai.ndl.go.jp/txt/102605077X03019570711/2,docx,
+e0120,1952,,1952,diagnosis,DSM-I,米国精神医学会の最初の診断マニュアル,,米,exam;diagnosis,1,American Psychiatric Association: DSM History（DSM-I 1952）,https://www.psychiatry.org/psychiatrists/practice/dsm/about-dsm/history-of-the-dsm,docx,
+e0121,1952,,1952,somatic,クロルプロマジンと/イミプラミン,最初の抗精神病薬,Delay; Deniker; Laborit,仏,exam;drug,1,"Delay J, Deniker P, Harl JM. Ann Med Psychol 1952;110:112-117; Laborit H et al. Presse Med 1952;60:206",,docx,v
+e0122,1953,,1953,diagnosis,REM 睡眠の発見,Aserinsky; Kleitman,Aserinsky; Kleitman,米,exam;sleep,1,"Aserinsky E, Kleitman N. Science 1953;118:273-274",,web_added,h
+e0123,1953,,1953,mind,ウィニコット 移行対象,ほどよい母親,Winnicott,英,exam;child;psychotherapy,2,Winnicott DW. Int J Psychoanal 1953;34:89-97,,web_added,
+e0124,1953,,1953,mind,吉本伊信 内観道場を開設,大和郡山に内観道場（のち内観研修所）。内観療法の拠点,吉本伊信,日,exam;psychotherapy,1,井原彰一「内観の創始者『吉本伊信の生涯・人間像』」内観研究 27(1):11（37歳で大和郡山市に内観道場を開設）,https://www.jstage.jst.go.jp/article/jna/27/1/27_11/_pdf/-char/ja,web_added,
+e0126,1955,,1955,mind,エリス 論理療法（REBT）,ABC 理論,Ellis,米,exam;psychotherapy,2,Ellis A. Reason and Emotion in Psychotherapy. New York 1962（1955 開始）,,web_added,
+e0127,1955,,1955,somatic,クロルプロマジン 日本発売,商品名コントミン,,日,drug,2,コントミン（吉富）・ウインタミン（塩野義）インタビューフォーム（1955 販売開始）,,corrected,
+e0128,1956,,1956,mind,ベイトソン 二重拘束説,統合失調症の家族研究,Bateson,米,psychopathology,2,"Bateson G, Jackson DD, Haley J, Weakland J. Behav Sci 1956;1:251-264",,web_added,
+e0129,1956,,1956,mind,小林八郎 生活療法,生活指導・レク・作業療法を「生活療法」と総称,小林八郎,日,psychotherapy,3,小林八郎・小林清男「リクリエーション療法」日本醫事新報 1956;1662:35-41; 山口芳文「精神医療と作業療法―65年の歩み―」昭和学士会誌 2015;75(5):528-533,https://www.jstage.jst.go.jp/article/jshowaunivsoc/75/5/75_528/_pdf,web_added,
+e0130,1956,,1956,society,水俣病 公式確認,,,日,,3,環境省『水俣病の教訓と日本の水銀対策』（1956年5月1日 公式確認）,,web_added,
+e0132,1957,,1957,somatic,クーン イミプラミン,最初の三環系抗うつ薬,Kuhn,スイス,exam;drug,1,Kuhn R. Schweiz Med Wochenschr 1957;87:1135-1140,,docx,
+e0133,1958,,1958,japan,精神科特例,医師・看護職員の配置基準を一般病床より低く設定,,日,exam,1,厚生事務次官通知（昭和33年10月）; 岡田靖雄『日本精神科医療史』医学書院 2002,,web_added,
+e0134,1958,,1958,mind,コンラート『分裂病のはじまり』,トレマ・アポフェニー,Conrad,独,psychopathology,2,Conrad K. Die beginnende Schizophrenie. Stuttgart 1958,,docx,
+e0135,1958,,1958,mind,ウォルピ 系統的脱感作,逆制止による心理療法,Wolpe,南ア,exam;psychotherapy,2,Wolpe J. Psychotherapy by Reciprocal Inhibition. Stanford 1958,,docx,
+e0136,1958,,1958,somatic,ハロペリドール 合成,ヤンセン社,Janssen,ベルギー,exam;drug,2,"Janssen PAJ et al. J Med Pharm Chem 1959;1:281; Granger B, Albu S. Ann Clin Psychiatry 2005;17:137",,corrected,
+e0137,1959,,1959,world,英国 精神保健法 1959,任意入院を原則化,,英,exam;law,2,Mental Health Act 1959 (7 & 8 Eliz 2 c 72)（legislation.gov.uk）,,web_added,
+e0138,1959,,1959,somatic,イミプラミン 日本発売,トフラニール,,日,drug,3,トフラニール錠25mg 添付文書（販売開始 1959年7月）,https://www.pmda.go.jp/PmdaSearch/iyakuDetail/GeneralList/1174006,docx,
+e0139,1960,,1960,japan,医療金融公庫 設立,民間精神科病院の増床を後押し,,日,,3,日本法令索引（国立国会図書館）: 医療金融公庫法（1960）; 岡田靖雄『日本精神科医療史』医学書院 2002,,web_added,
+e0140,1960,,1960,japan,精神薄弱者福祉法,1999年知的障害者福祉法に改称,,日,child;law,3,日本法令索引（国立国会図書館）: 精神薄弱者福祉法（昭和35年法律第37号）、平成10年法律第110号で改称,,web_added,
+e0142,1960,1969,1960s,mind,認知療法と/行動療法,ベック。うつ病の認知モデル,Beck,米,exam;psychotherapy,1,Beck AT. Arch Gen Psychiatry 1963;9:324-333; Beck AT. Depression 1967,,docx,v
+e0143,1961,,1961,world,ゴッフマン『アサイラム』,全制的施設。サズ『精神医学の神話』も同年,Goffman; Szasz,米,,2,Goffman E. Asylums. New York 1961; Szasz TS. The Myth of Mental Illness. New York 1961,,web_added,
+e0144,1961,,1961,mind,メランコリー親和型,テレンバッハ『メランコリー』,Tellenbach,独,exam;psychopathology,1,Tellenbach H. Melancholie. Berlin 1961,,docx,h
+e0145,1961,,1961,society,国民皆保険 実現,,,日,,1,厚生労働白書 平成23年版（1961 国民皆保険）,,web_added,h
+e0146,1962,,1962,world,ケーシー『カッコーの巣の上で』,1975年映画化,Kesey,米,,3,Kesey K. One Flew Over the Cuckoo's Nest. Viking 1962,,web_added,
+e0147,1963,,1963,world,脱施設化,ケネディ教書。地域精神保健へ転換（精神病院から路上へ）,Kennedy,米,exam,1,"Kennedy JF. Special Message on Mental Illness and Mental Retardation, 1963-02-05; Community Mental Health Act 1963",,docx,v
+e0148,1963,,1963,japan,久里浜 アルコール専門病棟,国立療養所久里浜病院,,日,addiction,2,久里浜医療センター 沿革（1963 アルコール専門病棟）,,web_added,
+e0149,1964,,1964,world,ヘルシンキ宣言,世界医師会,,フィンランド,exam;ethics,1,World Medical Association: Declaration of Helsinki（1964年6月 第18回総会）,https://www.wma.net/policies-post/wma-declaration-of-helsinki/,web_added,
+e0150,1964,,1964,japan,ライシャワー事件,駐日米大使刺傷。精神衛生法改正の契機,Reischauer,日,exam,1,国会会議録 1964（ライシャワー大使刺傷事件）; 厚生労働省 精神保健医療福祉施策の沿革,,docx,h
+e0151,1964,,1964,somatic,ハロペリドール・ジアゼパム 日本発売,セレネース、セルシン/ホリゾン,,日,drug,3,セレネース（大日本製薬）・セルシン（武田）インタビューフォーム（1964 販売開始）,,docx,
+e0152,1965,,1965,japan,精神衛生法改正（通院医療費公費負担）,通院医療費公費負担、保健所を地域精神保健の第一線に,,日,exam;law,2,日本法令索引（国立国会図書館）: 精神衛生法の一部を改正する法律（昭和40年法律第139号）,,docx,
+e0154,1965,,1965,diagnosis,睡眠時無呼吸の記載,Gastaut ら,Gastaut,仏,sleep,3,"Gastaut H, Tassinari CA, Duron B. Rev Neurol 1965;112:568-579; Brain Res 1966;1:167-186",,web_added,
+e0155,1965,,1965,somatic,メサドン維持療法,Dole; Nyswander,Dole; Nyswander,米,addiction;drug,3,"Dole VP, Nyswander M. JAMA 1965;193:646-650",,web_added,
+e0156,1966,,1966,somatic,バルプロ酸 気分安定作用,Lambert,Lambert,仏,drug,2,Lambert PA et al. Ann Med Psychol 1966;124:707-710,,web_added,
+e0157,1966,,1966,somatic,フルフェナジン デポ剤,持効性注射剤（LAI）の普及,,米,drug,3,Johnson DAW. Br J Psychiatry 2009;195(S52):S7-S12（デポ剤の歴史）,,docx,
+e0158,1966,,1966,society,神谷美恵子『生きがいについて』,長島愛生園での経験から,神谷美恵子,日,,3,神谷美恵子『生きがいについて』みすず書房 1966,,docx,
+e0159,1967,,1967,world,反精神医学,クーパー,Cooper,英,,1,Cooper D. Psychiatry and Anti-Psychiatry. London 1967,,docx,h
+e0160,1967,,1967,mind,カーンバーグ 境界パーソナリティ構造,Kernberg,Kernberg,米,exam;psychotherapy,2,Kernberg O. J Am Psychoanal Assoc 1967;15:641-685,,web_added,
+e0161,1968,,1968,japan,クラーク勧告,WHO 派遣顧問が長期入院・地域ケア不足を指摘,Clark,日,exam,1,Clark DH. WHO 顧問報告書（Assignment Report）1968; 岡田靖雄『日本精神科医療史』医学書院 2002,,docx,
+e0163,1968,,1968,diagnosis,睡眠段階判定基準,Rechtschaffen; Kales,Rechtschaffen; Kales,米,sleep,3,"Rechtschaffen A, Kales A. A Manual of Standardized Terminology… NIH Publ 204. 1968",,web_added,
+e0164,1969,,1969,japan,日本精神神経学会 金沢大会,学会改革、保安処分反対の運動へ,,日,forensic,2,日本精神神経学会「学会の歴史」（1969 第66回金沢総会）,,web_added,
+e0165,1969,,1969,mind,キューブラー＝ロス『死ぬ瞬間』,死の受容の5段階,Kübler-Ross,米,exam,2,Kübler-Ross E. On Death and Dying. New York 1969,,web_added,
+e0166,1969,,1969,mind,ボウルビィ 愛着理論,『母子関係の理論』第1巻。1951年WHO報告,Bowlby,英,exam;child,1,Bowlby J. Attachment and Loss Vol.1. 1969; Bowlby J. Maternal Care and Mental Health. WHO 1951,,web_added,
+e0167,1969,,1969,mind,中井久夫 風景構成法,描画による治療的面接,中井久夫,日,exam;psychotherapy,2,中井久夫 芸術療法 1970;2:77-90（風景構成法 1969 考案）,,web_added,
+e0168,1974,,1974,mind,宮本忠雄『言語と妄想』,妄想を言語論から考察。病跡学の第一人者,宮本忠雄,日,exam;psychopathology,3,"宮本忠雄『言語と妄想―危機意識の病理』平凡社選書33, 1974（CiNii NCID BN00482392）; 自治医科大学精神医学講座「教室の歩み」",https://ci.nii.ac.jp/ncid/BN00482392,web_added,
+e0170,1970,1979,1970s,mind,木村敏 アンテ／ポスト・フェストゥム,時間論的精神病理学,木村敏,日,exam;psychopathology,2,木村敏『自覚の精神病理』紀伊國屋書店 1970; 木村敏『時間と自己』中公新書 1982,,web_added,
+e0171,1970,1979,1970s,mind,笠原嘉 退却神経症,スチューデント・アパシー。小精神療法も提唱,笠原嘉,日,exam;psychopathology,2,笠原嘉『アパシー・シンドローム』岩波書店 1984; 笠原嘉『退却神経症』講談社 1988,,web_added,
+e0172,1970,1979,1970s,mind,対人関係療法（IPT）,うつ病研究から開発（マニュアル1984）,Klerman; Weissman,米,exam;psychotherapy,1,"Klerman GL, Weissman MM et al. Interpersonal Psychotherapy of Depression. Basic Books 1984",,docx,
+e0173,1970,,1970,society,日本 高齢化社会（7%）,,,日,,3,総務省統計局 人口推計（1970 高齢化率7.1%）,https://www.stat.go.jp/data/jinsui/,web_added,
+e0174,1971,,1971,japan,東京いのちの電話 開設,電話相談による自殺予防,,日,,3,日本いのちの電話連盟 沿革（1971年10月 東京いのちの電話）,,docx,
+e0175,1971,,1971,mind,コフート『自己の分析』,自己心理学,Kohut,米,exam;psychotherapy,2,Kohut H. The Analysis of the Self. New York 1971,,web_added,
+e0176,1971,,1971,mind,土居健郎「甘え」の構造,,土居健郎,日,exam;psychopathology,1,土居健郎『「甘え」の構造』弘文堂 1971,,web_added,h
+e0177,1972,,1972,mind,ブラウン 感情表出（EE）,家族の高EEと再発,Brown,英,psychopathology,2,"Brown GW, Birley JLT, Wing JK. Br J Psychiatry 1972;121:241-258",,web_added,
+e0178,1972,,1972,mind,ブーツィン 刺激統制法,Bootzin,Bootzin,米,sleep;psychotherapy,2,Bootzin RR. Proc Annu Conv Am Psychol Assoc 1972;7:395-396,,corrected,
+e0179,1972,,1972,society,有吉佐和子『恍惚の人』,認知症介護が社会問題に,有吉佐和子,日,dementia,1,有吉佐和子『恍惚の人』新潮社 1972,,web_added,h
+e0180,1973,,1973,world,DSM から同性愛を削除,1974年 DSM-II 第7刷,,米,ethics;diagnosis,2,Drescher J. Behav Sci (Basel) 2015;5:565-575; APA DSM History,,web_added,
+e0181,1973,,1973,world,ローゼンハン実験,On being sane in insane places,Rosenhan,米,,3,Rosenhan DL. Science 1973;179:250-258,,web_added,
+e0182,1973,,1973,japan,療育手帳 制度化,厚生事務次官通知による,,日,child,3,厚生事務次官通知 発児第156号「療育手帳制度について」（昭和48年9月27日）,,corrected,
+e0183,1973,,1973,somatic,大熊輝雄 カルバマゼピンの抗躁効果,大熊輝雄,大熊輝雄,日,exam;drug,2,Okuma T et al. Folia Psychiatr Neurol Jpn 1973;27:283-297,,web_added,
+e0184,1974,,1974,japan,精神科デイケア 保険適用,,,日,,2,診療報酬点数表 1974（精神科デイ・ケア新設）; 厚生労働省 精神保健医療福祉施策の沿革,,docx,
+e0185,1974,,1974,mind,レウィンソン 行動活性化,Lewinsohn,Lewinsohn,米,psychotherapy,2,"Lewinsohn PM. In: Friedman RJ, Katz MM eds. The Psychology of Depression. 1974",,docx,
+e0186,1975,,1975,japan,日本精神神経学会 精神外科否定決議,ロボトミー等を否定,,日,exam;somatic;ethics,2,日本精神神経学会「精神外科を否定する決議」1975年5月,,docx,
+e0188,1975,,1975,mind,マーラー 分離－個体化,Mahler,Mahler,米,exam;child,2,"Mahler MS, Pine F, Bergman A. The Psychological Birth of the Human Infant. 1975",,web_added,
+e0189,1975,,1975,somatic,クロザピン 販売中止,フィンランドの無顆粒球症例を受け各国で中止,,フィンランド,drug,2,Idänpään-Heikkilä J et al. Lancet 1975;2:611,,corrected,
+e0190,1976,,1976,world,タラソフ判決,警告義務,Tarasoff,米,forensic,2,"Tarasoff v. Regents of the University of California, 17 Cal.3d 425 (1976)",,web_added,
+e0191,1976,,1976,diagnosis,小阪憲司 レビー小体病,1976年に剖検例を報告、1984年びまん性レビー小体病を提唱,小阪憲司,日,exam;dementia,1,Kosaka K et al. Acta Neuropathol 1976;36:221-233; Kosaka K et al. Clin Neuropathol 1984;3:185-192,,web_added,
+e0192,1977,,1977,mind,Bio-Psycho-Social モデル,エンゲル。Science 誌,Engel,米,exam,1,Engel GL. Science 1977;196:129-136,,docx,h
+e0193,1977,,1977,diagnosis,メタアナリシスの誕生（心理療法）,グラスが1976年に命名、スミス＆グラス1977。アイゼンクへの反論,Glass; Smith,米,,2,"Smith ML, Glass GV. Am Psychol 1977;32:752-760; Glass GV. Educ Res 1976;5:3-8",,docx,
+e0194,1977,,1977,mind,ハウリ 睡眠衛生指導,Hauri,Hauri,米,sleep,2,Hauri P. The Sleep Disorders. Upjohn 1977,,docx,
+e0195,1978,,1978,world,バザリア法,法律180号。新規入院を停止し地域ケアへ,Basaglia,伊,exam;law,1,"Legge 13 maggio 1978, n. 180（Gazzetta Ufficiale）",,docx,h
+e0196,1979,,1979,mind,カバットジン MBSR,マインドフルネス・ストレス低減法,Kabat-Zinn,米,exam;psychotherapy,2,Kabat-Zinn J. Gen Hosp Psychiatry 1982;4:33-47（1979 MBSR 開始）,,web_added,
+e0197,1980,,1980,diagnosis,DSM-III,操作的診断。多軸評定。PTSD を採用,,米,exam;diagnosis,1,American Psychiatric Association. DSM-III. 1980,https://www.psychiatry.org/psychiatrists/practice/dsm/about-dsm/history-of-the-dsm,docx,v
+e0198,1980,,1980,somatic,炭酸リチウム 日本発売,ケイドの報告から31年,,日,drug,1,リーマス錠 インタビューフォーム（1980 販売開始）,,docx,h
+e0199,1981,,1981,diagnosis,ウィング アスペルガー症候群,自閉症スペクトラムの再評価,Wing,英,child,2,Wing L. Psychol Med 1981;11:115-129,,web_added,
+e0200,1981,,1981,somatic,CPAP 療法,Sullivan,Colin Sullivan,豪,sleep,3,Sullivan CE et al. Lancet 1981;1:862-865,,web_added,
+e0201,1983,,1983,world,英国 精神保健法 1983,,,英,law,2,Mental Health Act 1983 c.20（legislation.gov.uk）,https://www.legislation.gov.uk/ukpga/1983/20/contents,web_added,
+e0202,1983,,1983,mind,動機づけ面接,Miller,Miller,米,addiction;psychotherapy,3,Miller WR. Behav Psychother 1983;11:147-172,,web_added,
+e0203,1984,,1984,japan,宇都宮病院事件,職員の暴行で患者死亡,,日,exam;ethics,1,国会会議録 1984; 桐原尚之 Core Ethics 2015;11（宇都宮病院事件）,,docx,hl
+e0204,1985,,1985,somatic,経頭蓋磁気刺激（TMS）開発,Barker,Barker,英,somatic,3,"Barker AT, Jalinous R, Freeston IL. Lancet 1985;1:1106-1107",,web_added,
+e0205,1987,,1987,world,オシェロフ対チェストナット・ロッジ,うつ病への薬物療法不実施を争う。EBM論議の契機,Osheroff,米,,2,Klerman GL. Am J Psychiatry 1990;147:409-418,,docx,
+e0206,1987,,1987,japan,精神保健法,任意入院・指定医・精神医療審査会を創設,,日,exam;law,1,日本法令索引（国立国会図書館）: 精神衛生法等の一部を改正する法律（昭和62年法律第98号）,,corrected,h
+e0208,1987,,1987,mind,スピールマン 3P モデル・睡眠制限法,Spielman,Spielman,米,sleep;psychotherapy,1,"Spielman AJ, Caruso LS, Glovinsky PB. Psychiatr Clin North Am 1987;10:541-553; Spielman AJ et al. Sleep 1987;10:45-56",,docx,
+e0209,1988,,1988,somatic,Fluoxetine 米国発売,プロザック。SSRI の普及,,米,exam;drug,1,FDA 承認 1987-12-29（NDA 018936）; Wong DT et al. Life Sci 1995;57:411,,docx,hl
+e0210,1989,,1989,mind,EMDR,Shapiro,Shapiro,米,psychotherapy,3,Shapiro F. J Trauma Stress 1989;2:199-223,,web_added,
+e0211,1989,,1989,somatic,クロザピン 米国で再承認,治療抵抗性統合失調症（Kane 1988）,Kane,米,exam;drug,1,Kane J et al. Arch Gen Psychiatry 1988;45:789-796; FDA 1989 Clozaril 承認,,docx,h
+e0213,1990,,1990,diagnosis,ICD-10 採択,WHO 総会。1992年 F 章の臨床記述と診断ガイドライン,,スイス,exam;diagnosis,1,WHO: History of ICD（1990年5月 第43回世界保健総会）,https://www.who.int/standards/classifications/classification-of-diseases,web_added,
+e0214,1990,,1990,diagnosis,睡眠障害国際分類（ICSD）,,,米,sleep;diagnosis,3,American Sleep Disorders Association. ICSD. 1990,,web_added,
+e0215,1991,,1991,world,国連 精神疾患者保護原則,精神疾患を有する者の保護のための原則,,国連,exam;law;ethics,1,UN General Assembly Resolution A/RES/46/119（1991-12-17）,,web_added,h
+e0216,1991,,1991,diagnosis,EBM,ガイアット。ACP Journal Club で命名。1992年 JAMA で普及,Guyatt,加,,1,Guyatt GH. ACP J Club 1991;114:A-16; Evidence-Based Medicine Working Group. JAMA 1992;268:2420,,corrected,v
+e0217,1993,,1993,world,世界疾病負担研究（GBD 1990）,世界銀行報告で DALY を提示。精神疾患の負担を可視化,Murray; Lopez,,,1,World Bank. World Development Report 1993: Investing in Health,,docx,hl
+e0218,1993,,1993,japan,障害者基本法,精神障害者を「障害者」に位置づけ,,日,exam;law,2,日本法令索引（国立国会図書館）: 障害者基本法（1993年 心身障害者対策基本法を改正・改称）,,web_added,
+e0219,1993,,1993,mind,リネハン 弁証法的行動療法,境界性パーソナリティ障害,Linehan,米,exam;psychotherapy,1,Linehan MM. Cognitive-Behavioral Treatment of Borderline Personality Disorder. Guilford 1993,,web_added,
+e0221,1994,,1994,society,日本 高齢社会（14%）,,,日,,3,総務省統計局 人口推計（1994 高齢化率14%超）,https://www.stat.go.jp/data/jinsui/,web_added,
+e0222,1995,,1995,japan,精神保健福祉法,福祉の章、精神障害者保健福祉手帳,,日,exam;law,1,日本法令索引（国立国会図書館）: 精神保健法の一部を改正する法律（平成7年法律第94号）,,web_added,h
+e0223,1995,,1995,society,地下鉄サリン事件,,,日,disaster,2,警察庁 警察白書 平成7年版（地下鉄サリン事件）,,web_added,
+e0224,1995,,1995,society,阪神・淡路大震災,心のケア・PTSD が社会に浸透,,日,disaster,1,内閣府 防災情報 阪神・淡路大震災教訓情報資料集,,docx,hl
+e0225,1996,,1996,japan,母体保護法,優生保護法から優生条項を削除,,日,law;ethics,2,日本法令索引（国立国会図書館）: 優生保護法の一部を改正する法律（平成8年法律第105号）,,docx,
+e0226,1996,,1996,somatic,リスペリドン 日本発売,SDA。日本初の第2世代抗精神病薬,,日,exam;drug,2,リスパダール インタビューフォーム（1996 販売開始）,,docx,
+e0227,1997,,1997,japan,大和川病院事件 発覚,患者暴行死を契機に不正が発覚、廃院,,日,ethics,2,大阪府 大和川病院事件の記録; 大阪精神医療人権センター,,docx,
+e0228,1997,,1997,japan,精神保健福祉士法,,,日,law,2,日本法令索引（国立国会図書館）: 精神保健福祉士法（平成9年法律第131号）,,web_added,
+e0229,1998,,1998,diagnosis,オレキシンの発見,櫻井武・柳沢正史,櫻井武; 柳沢正史,日,exam;sleep,1,Sakurai T et al. Cell 1998;92:573-585; de Lecea L et al. PNAS 1998;95:322,,web_added,h
+e0230,1998,,1998,society,自殺者 3万人超,以後14年連続,,日,,1,"厚生労働省・警察庁 自殺統計（1998 32,863人、2011まで3万人超）",,docx,h
+e0231,1999,,1999,mind,ACT（アクセプタンス＆コミットメント）,Hayes,Hayes,米,exam;psychotherapy,2,"Hayes SC, Strosahl KD, Wilson KG. Acceptance and Commitment Therapy. Guilford 1999",,web_added,
+e0232,1999,,1999,somatic,ドネペジル 日本発売,アリセプト（エーザイ）,杉本八郎,日,dementia;drug,2,アリセプト インタビューフォーム（1999年11月 販売開始）,,web_added,
+e0233,1999,,1999,somatic,フルボキサミン 日本発売,日本初の SSRI,,日,exam;drug,2,デプロメール/ルボックス インタビューフォーム（1999 販売開始）,,docx,
+e0234,2000,,2000,japan,介護保険制度 施行,,,日,dementia,2,日本法令索引（国立国会図書館）: 介護保険法（平成9年法律第123号）、2000年4月施行,,docx,
+e0235,2000,,2000,japan,児童虐待防止法,,,日,child;law,3,日本法令索引（国立国会図書館）: 児童虐待の防止等に関する法律（平成12年法律第82号）,,web_added,
+e0237,2000,,2000,somatic,ケタミン 速効性抗うつ効果,Berman ら,Berman,米,exam;drug,2,Berman RM et al. Biol Psychiatry 2000;47:351-354,,web_added,
+e0238,2000,,2000,society,電通事件 最高裁判決,過労による自殺に企業の責任を認める,,日,,2,最高裁判所第二小法廷 平成12年3月24日判決 民集54巻3号1155頁,,docx,
+e0239,2001,,2001,japan,朝倉病院・箕面ヶ丘病院事件,埼玉と大阪で違法拘束・不正請求が発覚し保険指定取消,,日,ethics,3,第151回国会 衆議院予算委員会第五分科会 2001-03-01（朝倉病院: 2000年末発覚・違法拘束・不正請求疑い）; 衆議院法務委員会厚生労働委員会連合審査会 2002-12-03（箕面ヶ丘病院: 前年に違法拘束・職員水増し発覚、2002年1月保険指定取消）; 大阪精神医療人権センター,https://kokkai.ndl.go.jp/txt/115505222X00220021203/10,docx,
+e0240,2001,,2001,society,中井久夫『看護のための精神医学』,山口直彦と共著,中井久夫,日,,3,中井久夫・山口直彦『看護のための精神医学』医学書院 2001,,docx,
+e0241,2001,,2001,japan,附属池田小事件,→ 2003 医療観察法 成立の契機,,日,forensic,1,文部科学省 附属池田小学校事件（2001年6月8日）; 厚生労働省 精神保健医療福祉施策の沿革,,docx,
+e0242,2002,,2002,japan,『統合失調症』,日本精神神経学会。精神分裂病から,,日,exam,1,日本精神神経学会 2002年8月 呼称変更,,web_added,hl
+e0243,2002,,2002,mind,MBCT,マインドフルネス認知療法,Segal; Williams; Teasdale,英,psychotherapy,2,"Segal ZV, Williams JMG, Teasdale JD. Mindfulness-Based Cognitive Therapy for Depression. Guilford 2002",,web_added,
+e0244,2002,,2002,somatic,アリピプラゾール 米国承認,大塚製薬。日本発売2006,,米,exam;drug,1,FDA 承認 2002-11（Abilify）; エビリファイ インタビューフォーム（2006 日本発売）,,web_added,
+e0245,2003,,2003,japan,心神喪失者等医療観察法 成立,2005施行,,日,exam;law;forensic,2,日本法令索引（国立国会図書館）: 心神喪失者等医療観察法（平成15年法律第110号）,,web_added,
+e0246,2004,,2004,japan,「痴呆」→「認知症」,厚労省の用語検討会,,日,exam;dementia,2,厚生労働省「痴呆」に替わる用語に関する検討会 報告書 2004年12月,,web_added,
+e0247,2004,,2004,japan,新医師臨床研修制度,初期研修必修化。精神科研修を含む,,日,,3,厚生労働省 新医師臨床研修制度（2004年4月施行）,,docx,
+e0248,2004,,2004,japan,発達障害者支援法,2005施行,,日,exam;child;law,2,日本法令索引（国立国会図書館）: 発達障害者支援法（平成16年法律第167号）,,web_added,
+e0249,2004,,2004,japan,精神保健医療福祉の改革ビジョン,「入院医療中心から地域生活中心へ」,,日,exam,1,厚生労働省 精神保健医療福祉の改革ビジョン 2004年9月,,web_added,
+e0250,2005,,2005,japan,医療観察法 施行,,,日,exam;law;forensic,1,日本法令索引（国立国会図書館）: 心神喪失者等医療観察法 2005年7月施行,,docx,h
+e0251,2006,,2006,world,国連 障害者権利条約,日本は2014年批准,,国連,exam;law;ethics,1,UN A/RES/61/106（2006-12-13）; 外務省 障害者権利条約（2014-01-20 批准）,,web_added,h
+e0252,2006,,2006,japan,自殺対策基本法,,,日,exam;law,1,日本法令索引（国立国会図書館）: 自殺対策基本法（平成18年法律第85号）,,web_added,
+e0253,2006,,2006,japan,障害者自立支援法 施行,3障害一元化。2013年障害者総合支援法へ,,日,exam;law,2,日本法令索引（国立国会図書館）: 障害者自立支援法（平成17年法律第123号）2006年施行,,docx,
+e0254,2007,,2007,world,“No Health Without Mental Health”。LMIC のメンタルヘルスに注目,Prince ら Lancet グローバル・メンタルヘルス連載。低中所得国の治療ギャップを指摘し、2008 WHO mhGAP へ,Prince,英・印,,2,Prince M et al. Lancet 2007;370:859-877,,corrected,
+e0255,2007,,2007,society,日本 超高齢社会（21%）,,,日,,2,総務省統計局 人口推計（2007 高齢化率21%超）,https://www.stat.go.jp/data/jinsui/,web_added,
+e0256,2008,,2008,society,日本の人口減少開始,,,日,,2,総務省統計局 人口推計（2008年 人口ピーク）,https://www.stat.go.jp/data/jinsui/,docx,
+e0257,2009,,2009,diagnosis,MANGA study,新規抗うつ薬12剤のネットワーク・メタアナリシス,Cipriani,日・伊,,2,Cipriani A et al. Lancet 2009;373:746-758,,docx,
+e0258,2009,,2009,somatic,クロザピン 日本発売,クロザリル。CPMS 登録制,,日,exam;drug,2,クロザリル インタビューフォーム（2009 販売開始）,,docx,
+e0259,2009,,2009,somatic,ミルタザピン 日本発売,NaSSA,,日,drug,3,リフレックス/レメロン インタビューフォーム（2009 販売開始）,,docx,
+e0260,2009,,2009,somatic,リスペリドン LAI 日本発売,第2世代 LAI（商品名リスパダールコンスタ）,,日,drug,3,リスパダールコンスタ インタビューフォーム（2009 販売開始）,,docx,
+e0261,2010,,2010,world,ドイツ精神医学会 ナチス協力を謝罪,DGPPN。ドイツ精神医学精神療法神経学会,,独,ethics,2,Schneider F. DGPPN 2010-11-26 記念式典声明「Psychiatry under National Socialism」,,docx,
+e0262,2010,,2010,japan,認知行動療法 うつ病に保険適用,認知療法・認知行動療法,,日,exam;psychotherapy,2,平成22年度診療報酬改定（認知療法・認知行動療法 新設）,,web_added,
+e0263,2011,,2011,japan,精神疾患 5疾病に追加,医療計画（2013年度〜）,,日,exam,2,厚生労働省 社会保障審議会医療部会 2011年7月（5疾病化）,,docx,
+e0264,2011,,2011,society,東日本大震災,心のケアチーム（のち DPAT）,,日,disaster,1,内閣府 防災白書; 厚生労働省 DPAT 活動要領 2013,,docx,h
+e0265,2013,,2013,japan,アルコール健康障害対策基本法,2014施行,,日,addiction;law,3,日本法令索引（国立国会図書館）: アルコール健康障害対策基本法（平成25年法律第109号）,,web_added,
+e0266,2013,,2013,japan,睡眠薬の適正使用ガイドライン,厚労科研・日本睡眠学会,,日,sleep,2,三島和夫編 睡眠薬の適正な使用と休薬のための診療ガイドライン（厚労科研・日本睡眠学会）2013,,web_added,
+e0267,2013,,2013,japan,精神保健福祉法改正,保護者制度を廃止、医療保護入院を見直し（2014施行）,,日,exam;law,2,日本法令索引（国立国会図書館）: 精神保健及び精神障害者福祉に関する法律の一部を改正する法律（平成25年法律第47号）,,web_added,
+e0268,2013,,2013,japan,障害者総合支援法,障害者自立支援法を改正・改称,,日,exam;law,2,日本法令索引（国立国会図書館）: 地域社会における共生の実現に向けて…（平成24年法律第51号）2013施行,,web_added,
+e0269,2013,,2013,diagnosis,DSM-5,性同一性障害→性別違和、ディメンジョン的評価。原発性・続発性不眠の区別を廃止し不眠障害に,,米,exam;diagnosis;sleep,1,American Psychiatric Association. DSM-5. 2013,https://www.psychiatry.org/psychiatrists/practice/dsm/about-dsm/history-of-the-dsm,docx,h
+e0270,2014,,2014,japan,ストレスチェック制度,労働安全衛生法改正（2015施行）,,日,law,2,日本法令索引（国立国会図書館）: 労働安全衛生法の一部を改正する法律（平成26年法律第82号）2015年12月施行,,docx,
+e0271,2014,,2014,japan,障害者権利条約 批准,,,日,exam;law;ethics,2,外務省 障害者の権利に関する条約（2014年1月20日 批准書寄託）,,web_added,
+e0272,2014,,2014,somatic,スボレキサント 日本発売,世界初のオレキシン受容体拮抗薬,,日,drug;sleep,1,ベルソムラ インタビューフォーム（2014年9月承認・11月発売）,,docx,h
+e0273,2015,,2015,japan,聖マリ 指定医不正取得,2015年発覚・20人取消。2016年 全国調査で89人の指定取消,,日,ethics,3,厚生労働省 報道発表 2016-10-26（精神保健指定医89名の指定取消）; 2015-04-15（聖マリアンナ医大 20名）,,docx,
+e0274,2016,,2016,mind,CBT-I 第一選択,米国内科学会（ACP）が不眠症に推奨,,米,sleep;psychotherapy,1,Qaseem A et al. Ann Intern Med 2016;165:125-133,,docx,h
+e0275,2016,,2016,society,相模原障害者施設殺傷事件,措置入院制度の見直し論議,,日,ethics,1,厚生労働省 相模原市の障害者支援施設における事件の検証及び再発防止策検討チーム報告書 2016,,docx,h
+e0276,2017,,2017,japan,公認心理師法 施行,心理職初の国家資格（2015公布）,,日,law,2,日本法令索引（国立国会図書館）: 公認心理師法（平成27年法律第68号）2017年9月施行,,corrected,
+e0277,2017,,2017,diagnosis,概日リズム ノーベル賞（時計遺伝子による分子機構）,Hall; Rosbash; Young,Hall; Rosbash; Young,米,sleep;nobel,2,Nobel Prize in Physiology or Medicine 2017,https://www.nobelprize.org/prizes/medicine/2017/summary/,web_added,
+e0278,2017,,2017,mind,欧州 不眠症ガイドライン,CBT-I を第一選択,Riemann,欧,sleep;psychotherapy,3,Riemann D et al. J Sleep Res 2017;26:675-700,,web_added,
+e0279,2018,,2018,japan,ギャンブル等依存症対策基本法,,,日,addiction;law,3,日本法令索引（国立国会図書館）: ギャンブル等依存症対策基本法（平成30年法律第74号）,,web_added,
+e0280,2018,,2018,japan,機構専門医制度 開始,日本専門医機構による新専門医制度,,日,,3,日本専門医機構 2018年度 新専門医制度開始; 日本精神神経学会 専門医制度,,docx,
+e0281,2018,,2018,diagnosis,ICD-11 公表（複雑性PTSD・ゲーム障害を新設）,遷延性悲嘆症も新設。パーソナリティ症を重症度と特性で記述、統合失調症の病型廃止、性別不合を精神疾患の章から移動。2019 採択、2022 発効,,スイス,exam;diagnosis;addiction,1,WHO: ICD-11（2018-06 公表、2019 WHA72 採択、2022-01-01 発効）,https://www.who.int/standards/classifications/classification-of-diseases,corrected,
+e0282,2019,,2019,somatic,rTMS 日本で保険適用,治療抵抗性うつ病,,日,exam;somatic,1,令和元年6月 保険適用（治療抵抗性うつ病に対する経頭蓋磁気刺激療法）; 中医協資料,,web_added,
+e0283,2019,,2019,somatic,Esketamine 米国承認,点鼻薬,,米,exam;drug,2,FDA News Release 2019-03-05（Spravato）,,web_added,
+e0284,2020,,2020,japan,神出病院事件,看護職員による患者虐待,,日,ethics,3,神戸市 神出病院における虐待事案 検証報告書 2021,,docx,
+e0285,2020,,2020,somatic,レンボレキサント 日本発売,デエビゴ（エーザイ）,,日,drug;sleep,3,デエビゴ インタビューフォーム（2020年7月 販売開始）,,web_added,
+e0286,2020,,2020,world,COVID-19 パンデミック,,,日,disaster,1,WHO Director-General's remarks 2020-03-11（パンデミック表明）,,web_added,
+e0287,2022,,2022,japan,精神保健福祉法改正,虐待通報義務、入院者訪問支援事業（2024施行）,,日,exam;law,2,日本法令索引（国立国会図書館）: 障害者総合支援法等の一部を改正する法律（令和4年法律第104号）,,web_added,
+e0290,2023,,2023,japan,滝山病院事件,患者虐待で職員逮捕。2022年改正法の虐待通報義務へ,,日,ethics,2,東京都 滝山病院 調査結果 2023; 厚生労働省 2023 通知,,docx,
+e0291,2023,,2023,somatic,レカネマブ 承認,抗アミロイドβ抗体（日米）,,日,dementia;drug,2,FDA 2023-07-06 traditional approval; PMDA レケンビ 2023-09-25 承認,,web_added,
+e0292,2024,,2024,japan,旧優生保護法 違憲判決,最高裁大法廷。国の賠償責任を認める,,日,exam;ethics;law,1,最高裁判所大法廷 令和6年7月3日判決,,web_added,h
+e0293,2024,,2024,japan,認知症基本法 施行,,,日,dementia;law,3,日本法令索引（国立国会図書館）: 共生社会の実現を推進するための認知症基本法（令和5年法律第65号）2024年1月施行,,web_added,
+e0294,2024,,2024,somatic,Xanomeline-trospium 米国承認,ムスカリン受容体作動薬。初の非ドパミン系抗精神病薬,,米,drug,2,FDA News Release 2024-09-26（Cobenfy）,,corrected,
+e0295,2024,,2024,society,能登半島地震,,,日,disaster,3,気象庁 令和6年能登半島地震,,web_added,
+e0296,1868,,1868,society,明治維新,西洋医学（ドイツ医学）導入の起点,,日,exam,2,Encyclopaedia Britannica「Meiji Restoration」; 国立国会図書館『近代日本人の肖像』,,web_added,
+e0297,1776,,1776,world,アメリカ独立宣言,人権思想の広がり,,米,,2,U.S. National Archives: Declaration of Independence (1776),https://www.archives.gov/founding-docs/declaration,web_added,
+e0298,1789,,1789,world,フランス革命,人権宣言。ピネルの改革の背景,,仏,,2,Encyclopaedia Britannica「French Revolution」; Déclaration des droits de l'homme 1789（Légifrance）,,web_added,
+e0299,1933,1945,1933–45,world,ナチス政権・第二次大戦・ホロコースト,1933 断種法、1939 開戦と T4 作戦,,独,ethics;exam,1,United States Holocaust Memorial Museum Holocaust Encyclopedia; RGBl. I 1933 S.529（断種法）,https://encyclopedia.ushmm.org/,web_added,h
+e0300,1965,1975,1965–75,world,ベトナム戦争とPTSD,帰還兵の後遺症が DSM-III の PTSD へ,,米,exam,1,Encyclopaedia Britannica「Vietnam War」; APA DSM-III 1980（PTSD）,,web_added,h
+e0301,1804,,1804,somatic,コックス 回転椅子,患者を回転させ嘔吐・鎮静を狙う,Cox,英,somatic,2,Cox JM. Practical Observations on Insanity. London 1804; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0302,1811,,1811,somatic,ラッシュ 鎮静椅子・瀉血,拘束椅子と大量瀉血。米国精神医学の父,Rush,米,somatic,2,Rush B. Medical Inquiries and Observations upon the Diseases of the Mind. Philadelphia 1812; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0303,1857,,1857,somatic,臭化カリウム 鎮静・抗てんかん,ロコックが報告。初期の鎮静薬,Locock,英,drug,2,Sieveking EH. Lancet 1857;1:527-528（Locock の発言）; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0304,1869,,1869,somatic,抱水クロラール 催眠薬,リーブライヒ。最初の合成催眠薬,Liebreich,独,drug,2,Liebreich O. Das Chloralhydrat. Berlin 1869; Shorter E. A History of Psychiatry. Wiley 1997,,web_added,
+e0305,1971,,1971,diagnosis,CT 臨床応用（1979 ノーベル賞）,ハウンズフィールド。1979年ノーベル賞,Hounsfield,英,neuroimaging,2,Hounsfield GN. Br J Radiol 1973;46:1016-1022（1971 初の臨床撮影）; Nobel Prize 1979,https://www.nobelprize.org/prizes/medicine/1979/summary/,web_added,
+e0306,1973,,1973,diagnosis,MRI の原理（2003 ノーベル賞）,ラウターバー。2003年ノーベル賞,Lauterbur; Mansfield,米,neuroimaging,2,Lauterbur PC. Nature 1973;242:190-191; Nobel Prize 2003,https://www.nobelprize.org/prizes/medicine/2003/summary/,web_added,
+e0307,1992,2018,1992–2018,world,女性の権利と複雑性PTSD,ハーマン『心的外傷と回復』1992。ICD-11 で採用,Herman,米,exam,1,Herman JL. Trauma and Recovery. Basic Books 1992; WHO ICD-11 6B41,,web_added,h
+e0308,2006,,2006,japan,学会専門医制度 研修開始,日本精神神経学会。2005年に施行細則決定,,日,,2,精神医学 連載「精神科専門医制度の誕生とその背景」（医学書院）,https://webview.isho.jp/journal/detail/abs/10.11477/mf.1405201289,web_added,
+e0309,2022,,2022,japan,通院精神療法 指定医・非指定医で点数区別,令和4年改定で新設。2026年改定で非指定医を減算,,日,law,2,厚労省保険局医療課「令和4年度診療報酬改定の概要 個別改定事項Ⅳ（精神医療）」p.10 通院・在宅精神療法の見直し,https://www.mhlw.go.jp/content/12400000/000912335.pdf,web_added,
+e0310,2024,,2024,japan,精神神経学会 優生手術関与を謝罪,2月1日声明。法委員会の検証報告書,,日,ethics;exam,1,日本精神神経学会「優生保護法に関する声明」2024-02-01,https://www.jspn.or.jp/modules/advocacy/index.php?content_id=110,web_added,
+e0311,1972,,1972,diagnosis,Feighner 診断基準,ワシントン大学（セントルイス）。操作的診断の原型,Feighner; Robins; Guze,米,diagnosis;exam,2,Feighner JP et al. Arch Gen Psychiatry 1972;26:57-63,,web_added,
+e0312,1978,,1978,diagnosis,研究用診断基準（RDC）,スピッツァーら。DSM-III の土台,Spitzer; Endicott; Robins,米,diagnosis;exam,2,Spitzer RL et al. Arch Gen Psychiatry 1978;35:773-782,,web_added,
+e0313,1840,1842,1840–42,world,アヘン戦争,アヘン流入をめぐる英清戦争,,英・中,addiction,2,Encyclopaedia Britannica「Opium Wars」,,web_added,
+e0314,1914,,1914,world,ハリソン麻薬法,米国初の連邦麻薬規制,,米,addiction;law,2,"Harrison Narcotics Tax Act, Pub. L. 63-223, 38 Stat. 785 (1914)",,web_added,
+e0315,1920,1933,1920–33,world,禁酒法,アルコールの製造・販売を禁止,,米,addiction;law,2,"U.S. Constitution 18th Amendment (1919, 1920施行)・21st Amendment (1933)",,web_added,
+e0316,1971,,1971,world,ニクソン「麻薬戦争」宣言,厳罰化路線の起点,,米,addiction;law,2,"Nixon R. Remarks About an Intensified Program for Drug Abuse Prevention and Control, 1971-06-17（American Presidency Project）",,web_added,
+e0317,2017,,2017,world,オピオイド危機 公衆衛生非常事態,1996 オキシコンチン発売が端緒。2021 過量服薬死10万人超,,米,addiction,1,"米国保健福祉省 2017-10-26 公衆衛生非常事態宣言; CDC NCHS Data Brief 2022（2021 過量服薬死 106,699）",,web_added,
+e0318,1937,1945,1937–45,society,日中戦争・太平洋戦争,1945 終戦,,日,,1,国立国会図書館『史料にみる日本の近代』（1945年8月15日 終戦詔書）,,web_added,h
+e0319,1927,,1927,society,芥川龍之介 自死（睡眠薬）,,芥川龍之介,日,addiction,2,日本大百科全書「芥川龍之介」（コトバンク）; 吉田精一『芥川龍之介』1942,,web_added,
+e0320,1936,,1936,society,太宰治 パビナール中毒で入院,東京武蔵野病院。のち『人間失格』の題材,太宰治,日,addiction,2,日本大百科全書「太宰治」（コトバンク）; 山内祥史『太宰治の年譜』大修館書店 2012,,web_added,
+e0321,2022,,2022,society,梅毒報告数 1万人突破,感染症発生動向調査で年間報告数が初めて1万人超,,日,,2,国立感染症研究所 感染症発生動向調査,,web_added,
+e0322,1950,1979,1950–70s,diagnosis,『冷蔵庫マザー』説,自閉症の原因を冷たい母親の養育に帰した説。のち否定,Kanner; Bettelheim,米,child,2,Kanner L. 1949; Bettelheim B. The Empty Fortress 1967,,web_added,
+e0323,1973,,1973,world,ゴールドウォーター・ルール,APA 倫理規定。診察していない公人を診断しない,,米,ethics,2,"APA Principles of Medical Ethics, Section 7.3 (1973); 発端は1964年 Fact 誌の調査",https://www.psychiatry.org/psychiatrists/practice/ethics,web_added,
+e0324,1999,,1999,society,「うつは心の風邪」宣伝,,,日,drug,2,Kitanaka J. Depression in Japan: Psychiatric Cures for a Society in Distress. Princeton UP 2012,,web_added,hl
+e0325,1966,,1966,mind,マイヤー 曝露反応妨害法,強迫性障害への ERP,Meyer,英,exam;psychotherapy,2,Meyer V. Modification of expectations in cases with obsessional rituals. Behav Res Ther 1966;4:273-280,,web_added,
+e0326,1986,,1986,mind,フォア 持続エクスポージャー療法,情動処理理論。PTSD への PE,Foa,米,exam;psychotherapy,2,"Foa EB, Kozak MJ. Emotional processing of fear. Psychol Bull 1986;99:20-35; Foa EB et al. J Consult Clin Psychol 1991;59:715-723",,web_added,
+e0327,1962,,1962,world,キーフォーヴァー・ハリス修正法,サリドマイド禍を受け、新薬承認に有効性の立証（適切な比較試験）を義務化,Kefauver; Harris,米,drug;law,2,"Drug Amendments of 1962 (Public Law 87-781, 1962-10-10); FDA: Kefauver-Harris Amendments Revolutionized Drug Development",https://www.fda.gov/consumers/consumer-updates/kefauver-harris-amendments-revolutionized-drug-development,web_added,
+e0328,1970,,1970,somatic,アクセルロッド ノーベル賞（神経伝達物質の貯蔵・放出・再取り込み）。モノアミン仮説の基盤,Axelrod; Katz; von Euler。抗うつ薬の作用機序の理解へ,Axelrod; Katz; von Euler,米,exam;drug;nobel,2,Nobel Prize in Physiology or Medicine 1970,https://www.nobelprize.org/prizes/medicine/1970/summary/,web_added,
+e0329,2000,,2000,somatic,カールソン・カンデル ノーベル賞（神経系の情報伝達。ドパミン同定・記憶の分子機構）,Carlsson; Greengard; Kandel。ドパミン仮説・抗精神病薬。カンデルは精神科医出身,Carlsson; Greengard; Kandel,スウェーデン,exam;drug;nobel,2,Nobel Prize in Physiology or Medicine 2000,https://www.nobelprize.org/prizes/medicine/2000/summary/,web_added,
+e0330,1894,1895,1894–95,society,日清戦争,,,日,,3,国立公文書館 アジア歴史資料センター「日清戦争」,,web_added,
+e0331,1904,1905,1904–05,society,日露戦争,,,日,,3,国立公文書館 アジア歴史資料センター「日露戦争」,,web_added,
+e0332,1914,1918,1914–18,society,第一次世界大戦,,,日,,3,外務省 外交史料館「日本外交文書 第一次世界大戦」,,web_added,
+e0333,1955,1973,1955–73,society,高度経済成長,,,日,,2,内閣府 経済社会総合研究所 国民経済計算（実質成長率年平均約9%）,,web_added,
+e0334,1991,,1991,society,バブル崩壊,,,日,,2,内閣府 景気基準日付（第11循環 山 1991年2月）,,web_added,
+e0335,1993,2005,1993–2005,society,就職氷河期,,,日,,2,内閣官房 就職氷河期世代支援に関する行動計画（1993〜2004年頃の卒業者）,,web_added,
+e0337,2014,,2014,diagnosis,ICSD-3 慢性不眠障害,原発性・続発性の区別をやめ、併存疾患があっても不眠そのものを治療対象に,,米,sleep;diagnosis,2,"American Academy of Sleep Medicine. International Classification of Sleep Disorders, 3rd ed. 2014",,web_added,
+e0338,2021,,2021,world,気候不安（Climate anxiety）,10か国の若者1万人調査で過半数が気候変動に強い不安,Hickman,国,,2,Hickman C et al. Lancet Planet Health 2021;5:e863-e873,https://doi.org/10.1016/S2542-5196(21)00278-3,web_added,
+e0339,1966,,1966,diagnosis,双極性障害と単極性うつ病の区別,アングスト（スイス）とペリス（スウェーデン）が独立に提唱,Angst; Perris,スイス・スウェーデン,exam;diagnosis,1,Angst J. Zur Ätiologie und Nosologie endogener depressiver Psychosen. Springer 1966; Perris C. Acta Psychiatr Scand 1966;42(Suppl 194):1-189,,web_added,
+e0341,1952,,1952,mind,アイゼンク 心理療法の効果に疑問,,Eysenck,英,psychotherapy,1,Eysenck HJ. The effects of psychotherapy: an evaluation. J Consult Psychol 1952;16:319-324,,web_added,h
