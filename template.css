@@ -175,13 +175,19 @@ body { font-family: var(--font-sans); color: var(--ink); -webkit-print-color-adj
 .gutter-mark.top { top: 0; }
 .gutter-mark.bottom { bottom: 0; }
 
-/* 項目クリックのリンクメニュー（画面のみ。印刷では出さない） */
+/* 項目ホバー（タッチ端末はタップ）のリンクメニュー（画面のみ。印刷では出さない） */
 .has-lk { cursor: pointer; }
 .has-lk:hover { background: rgba(63,110,166,0.10); }
 .lk-menu { position: fixed; z-index: 1000; background: #fff; border: 1px solid #cfc8b9; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.18);
-  font: 13px/1.4 "Hiragino Sans","Noto Sans JP",sans-serif; color: #1d1d1d; min-width: 180px; max-width: 320px; padding: 4px 0; }
-.lk-menu .lk-h { padding: 6px 12px 4px; font-weight: 700; font-size: 12px; color: #5c5850; border-bottom: 1px solid #eee; margin-bottom: 2px; }
-.lk-menu a { display: block; padding: 6px 12px; color: #1d4e89; text-decoration: none; }
+  font: 13px/1.4 "Hiragino Sans","Noto Sans JP",sans-serif; color: #1d1d1d; min-width: 200px; max-width: 320px; padding: 4px 0 6px; }
+.lk-menu .lk-h { padding: 6px 12px 2px; font-weight: 700; font-size: 12px; color: #3a372f; }
+.lk-menu .lk-tip { padding: 0 12px; font-size: 11px; line-height: 1.45; color: #6f6a60; overflow-wrap: anywhere; }
+.lk-menu .lk-info { border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 2px; }
+.lk-menu a { display: flex; align-items: center; min-height: 28px; box-sizing: border-box; padding: 4px 12px; color: #1d4e89; text-decoration: none; }
 .lk-menu a:hover { background: #eef3f9; }
 .lk-menu a small { color: #8f8a80; margin-left: 6px; }
+.lk-menu a.lk-amazon { min-height: 32px; margin: 6px 8px 4px; padding: 6px 12px; border: 1px solid #e3b25c; border-radius: 4px;
+  background: #fff6e5; color: #6b3f00; font-weight: 700; }
+.lk-menu a.lk-amazon:hover { background: #ffe9c2; }
+.lk-menu a.lk-amazon small { color: #8a6a3a; font-weight: 400; }
 @media print { .lk-menu { display: none !important; } .has-lk:hover { background: none; } }

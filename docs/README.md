@@ -1,6 +1,6 @@
 # 精神医学の歴史（年表）
 
-最新版: https://ykfrkw.github.io/psychiatry-history-timeline/　／　最終更新: 2026-10-15
+最新版: https://ykfrkw.github.io/psychiatry-history-timeline/　／　最終更新: 2026-10-16
 
 ## 使い方
 

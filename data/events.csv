@@ -325,3 +325,6 @@ e0339,1966,,1966,diagnosis,双極性障害と単極性うつ病の区別,アン�
 e0340,1957,,1957,diagnosis,レオンハルト 内因性精神病の分類,類循環精神病など細分類。クレペリンの二分法への対案（クライスト・レオンハルト学派）,Leonhard; Kleist,独,candidate;diagnosis,3,Leonhard K. Aufteilung der endogenen Psychosen. Akademie-Verlag 1957（初版。1967 は改訂版の年か要確認）,,web_added,
 e0341,1952,,1952,mind,アイゼンク 心理療法の効果に疑問,,Eysenck,英,psychotherapy,1,Eysenck HJ. The effects of psychotherapy: an evaluation. J Consult Psychol 1952;16:319-324,,web_added,h
 e0342,1986,,1986,mind,クラーク パニック症の認知モデル,身体感覚の破局的誤解釈。曝露ではなく認知療法,Clark,英,candidate;psychotherapy,2,Clark DM. A cognitive approach to panic. Behav Res Ther 1986;24:461-470,,web_added,
+e0343,1988,1989,1988–89,society,東京・埼玉連続幼女誘拐殺人事件,宮崎勤（2008 死刑執行）。精神鑑定が分かれ、責任能力が争点に,宮崎勤,日,candidate;forensic,3,最高裁判所 平成18年1月17日判決（死刑確定）; 法務省 2008年6月17日 死刑執行,,web_added,
+e0344,1997,,1997,society,神戸連続児童殺傷事件,加害者は14歳。医療少年院送致、2000 年の少年法改正（刑事処分年齢の引き下げ）の契機に,,日,candidate;forensic,3,警察庁 警察白書 平成10年版; 少年法等の一部を改正する法律（平成12年法律第142号）,,web_added,
+e0345,2008,,2008,society,秋葉原無差別殺傷事件,加藤智大（2022 死刑執行）,加藤智大,日,candidate;forensic,3,最高裁判所 平成27年2月2日判決（死刑確定）; 法務省 2022年7月26日 死刑執行,,web_added,
