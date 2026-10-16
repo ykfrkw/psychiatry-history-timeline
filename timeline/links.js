@@ -191,4 +191,13 @@
   });
   document.addEventListener("keydown", (event) => { if (event.key === "Escape") closeMenu(); });
   addEventListener("scroll", closeMenu, true);
+  // 公開サイトでは年表が iframe の中にあり、スクロールするのは親ページ（.viewer）の側なので、同じオリジンの親にも付ける
+  for (let ancestor = window.parent; ancestor && ancestor !== window; ancestor = ancestor.parent) {
+    try {
+      ancestor.addEventListener("scroll", closeMenu, true);
+    } catch {
+      break;  // 別オリジン（ブログ記事の埋め込みなど）から先には届かない
+    }
+    if (ancestor === ancestor.parent) break;
+  }
 })();
